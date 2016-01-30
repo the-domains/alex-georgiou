@@ -1,0 +1,28 @@
+name: Alex Georgiou
+favicon: null
+layout_spectrum: 0.38392482372000813
+typography_spectrum: 0.3472209791652858
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7438073828816414
+  lightness: 0.6443196886684746
+  saturation: 0.823382802773267
+  rhythmicContrast: 0.7935610089916736
+purpose: []
