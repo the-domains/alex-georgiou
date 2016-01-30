@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Alex Georgiou]]></title>
+        <description><![CDATA[Alex Georgiou]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 23:47:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Accelerated Mobile Pages Project]]></title>
+            <description><![CDATA[<article><h1>Accelerated Mobile Pages Project</h1><p>For many, reading on the mobile web is a slow, clunky and frustrating experience - but it doesn't have to be that way. The Accelerated Mobile Pages (AMP) Project is an open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.</p></article>]]></description>
+            <link>https://www.ampproject.org/</link>
+            <guid isPermaLink="false">2af52e27-dadf-4342-aa26-2ef8af3efbdf</guid>
+            <pubDate>Sat, 30 Jan 2016 23:47:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
