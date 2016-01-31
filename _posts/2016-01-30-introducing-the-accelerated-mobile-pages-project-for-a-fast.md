@@ -16,7 +16,7 @@ keywords:
   - technologies
   - cache
 description: 'Smartphones and tablets have revolutionized the way we access information, and today people consume a tremendous amount of news on their phones. Publishers around the world use the mobile web to reach these readers, but the experience can often leave a lot to be desired.'
-datePublished: '2016-01-31T00:57:32.893Z'
+datePublished: '2016-01-31T00:57:32.916Z'
 dateModified: '2016-01-31T00:57:29.369Z'
 author: []
 related:
