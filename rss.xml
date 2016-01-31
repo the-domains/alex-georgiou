@@ -4,7 +4,7 @@
         <description><![CDATA[Alex Georgiou]]></description>
         <link>https://thegrid.ai/alex-georgiou/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 15:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 15:27:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-georgiou/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Adblock reveals how it charges companies to let ads through]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Sat, 30 Jan 2016 23:59:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The State of UX Design - Blog Posts from the FFW Team]]></title>
+            <description><![CDATA[<article><h1>The State of UX Design - Blog Posts from the FFW Team</h1><p>thoughts on designing digital products in the year 2015 User experience design has come a long way since Don Norman coined the term in the 90's. It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector - in only a matter of years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d774ce926a64ce8ad6cc745801e917f4907357.jpg"></article>]]></description>
+            <link>https://thegrid.ai/alex-georgiou/the-state-of-ux-design-blog-posts-from-the-ffw-team/index.html</link>
+            <guid isPermaLink="false">8c58a5f7-f010-4cec-af29-c3544e48e70b</guid>
+            <pubDate>Sun, 31 Jan 2016 15:26:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Definite Guide to Personal Branding]]></title>
-            <description><![CDATA[<article><h1>The Definite Guide to Personal Branding</h1><p>What is Branding? The process involved in creating a unique name and image for a product in the consumers' mind, mainly through advertising campaigns with a consistent theme. Branding aims to establish a significant and differentiated presence in the market that attracts and retains loyal customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05a0155da42ea778103c717021ae0d5cc81101c0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Definite Guide to Personal Branding</h1><p>What is Branding? The process involved in creating a unique name and image for a product in the consumers' mind, mainly through advertising campaigns with a consistent theme. Branding aims to establish a significant and differentiated presence in the market that attracts and retains loyal customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c2806e613d509b0c1678574175c3e09930985b5.jpg"></article>]]></description>
             <link>http://www.swiftbranding.com/the-definite-guide-to-personal-branding/?utm_content=buffer63d29&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">1b85d442-c872-4194-abfb-1a462cc4de04</guid>
             <pubDate>Sun, 31 Jan 2016 15:26:43 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://newsroom.fb.com/news/2016/01/expanding-live-video/</link>
             <guid isPermaLink="false">2599930b-ee7f-4f7d-9a3b-8df6340d8b3c</guid>
             <pubDate>Sat, 30 Jan 2016 23:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Accelerated Mobile Pages Project]]></title>
-            <description><![CDATA[<article><h1>Accelerated Mobile Pages Project</h1><p>For many, reading on the mobile web is a slow, clunky and frustrating experience - but it doesn't have to be that way. The Accelerated Mobile Pages (AMP) Project is an open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere.</p></article>]]></description>
-            <link>https://www.ampproject.org/</link>
-            <guid isPermaLink="false">2af52e27-dadf-4342-aa26-2ef8af3efbdf</guid>
-            <pubDate>Sat, 30 Jan 2016 23:47:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
