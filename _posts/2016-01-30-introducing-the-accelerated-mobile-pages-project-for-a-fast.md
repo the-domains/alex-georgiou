@@ -16,8 +16,8 @@ keywords:
   - technologies
   - cache
 description: 'Smartphones and tablets have revolutionized the way we access information, and today people consume a tremendous amount of news on their phones. Publishers around the world use the mobile web to reach these readers, but the experience can often leave a lot to be desired.'
-datePublished: '2016-01-31T00:48:58.964Z'
-dateModified: '2016-01-31T00:48:54.216Z'
+datePublished: '2016-01-31T00:57:32.733Z'
+dateModified: '2016-01-31T00:57:29.369Z'
 author: []
 related:
   - score: 0.5204809308
@@ -56,49 +56,24 @@ The project relies on AMP HTML, a new open framework built entirely out of exist
 
 [Google Search][1]
 
-:
-
 Over time we anticipate that other Google products such as Google News will also integrate AMP HTML pages. And today we're announcing that nearly 30 publishers from around the world are taking part too.
 
-This is the start of an exciting collaboration with publishers and technology companies, who have all come together to make the mobile web work better for everyone.
+This is the start of an exciting collaboration with publishers and technology companies, who have all come together to make the mobile web work better for everyone. [Twitter ,][2][Pinterest,][3][WordPress.com,][4][Chartbeat,][5][Parse.ly,][6][Adobe Analytics  ][7]and[LinkedIn ][8]
 
-[Twitter][2]
+are among the first group of technology partners planning to integrate AMP HTML pages. In the coming months we'll work with other participants in the project to build more features and functionality focused on some key areas:
 
-,
-
-[Pinterest][3]
-
-,
-
-[WordPress.com][4]
-
-,
-
-[Chartbeat][5]
-
-,
-
-[Parse.ly][6]
-
-,
-
-[Adobe Analytics][7]
-
-and
-
-[LinkedIn][8]
-
-are among the first group of technology partners planning to integrate AMP HTML pages.
-
-In the coming months we'll work with other participants in the project to build more features and functionality focused on some key areas:
-
-* **Content**: Publishers increasingly rely on rich content like image carousels, maps, social plug-ins, data visualizations, and videos to make their stories more interactive and stand out. They also need to implement ads and analytics in order to monetize the content and to understand what their readers like and dislike. The Accelerated Mobile Pages Project provides an open source approach, allowing publishers to focus on producing great content, while relying on the shared components for high performance and great user experience. The initial technical specification---developed with input and code from our partners in the publishing and technology sectors---is being released today on[GitHub][9].
-* **Distribution**: Publishers want people to enjoy the great journalism they create anywhere and everywhere, so stories or content produced in Spain can be served in an instant across the globe in, say, Chile. That means distribution across all kinds of devices and platforms is crucial. So, as part of this effort, we've designed a new approach to caching that allows the publisher to continue to host their content while allowing for efficient distribution through Google's high performance global cache. We intend to open our cache servers to be used by anyone free of charge.
-* **Advertising**: Ads help fund free services and content on the web. With Accelerated Mobile Pages, we want to support a comprehensive range of ad formats, ad networks and technologies. Any sites using AMP HTML will retain their choice of ad networks, as well as any formats that don't detract from the user experience. It's also a core goal of the project to support subscriptions and paywalls. We'll work with publishers and those in the industry to help define the parameters of an ad experience that still provides the speed we're striving for with AMP.
+* ****
+* **Content**: 
+* Publishers increasingly rely on rich content like image carousels, maps, social plug-ins, data visualizations, and videos to make their stories more interactive and stand out. They also need to implement ads and analytics in order to monetize the content and to understand what their readers like and dislike. The Accelerated Mobile Pages Project provides an open source approach, allowing publishers to focus on producing great content, while relying on the shared components for high performance and great user experience. The initial technical specification---developed with input and code from our partners in the publishing and technology sectors---is being released today on[GitHub][9].
+* * **Distribution**: 
+* Publishers want people to enjoy the great journalism they create anywhere and everywhere, so stories or content produced in Spain can be served in an instant across the globe in, say, Chile. That means distribution across all kinds of devices and platforms is crucial. So, as part of this effort, we've designed a new approach to caching that allows the publisher to continue to host their content while allowing for efficient distribution through Google's high performance global cache. We intend to open our cache servers to be used by anyone free of charge.
+* * **Advertising**: 
+* Ads help fund free services and content on the web. With Accelerated Mobile Pages, we want to support a comprehensive range of ad formats, ad networks and technologies. Any sites using AMP HTML will retain their choice of ad networks, as well as any formats that don't detract from the user experience. It's also a core goal of the project to support subscriptions and paywalls. We'll work with publishers and those in the industry to help define the parameters of an ad experience that still provides the speed we're striving for with AMP.
 
 We hope the open nature of Accelerated Mobile Pages will protect the free flow of information by ensuring the mobile web works better and faster for everyone, everywhere.
 
 Posted by David Besbris, Vice President Engineering, Search
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80cb8e64-8ea8-4cb7-88c8-f291491fd8ca.png)
 
 [0]: http://www.ampproject.org/
 [1]: http://insidesearch.blogspot.com/2015/10/accelerated-mobile-pages-in-search.html
