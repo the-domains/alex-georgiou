@@ -22,7 +22,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://mashable.com/2016/01/27/ex-always-on-facebook-feed'
 title: "Here's why your ex always shows up in your Facebook feed"
-datePublished: '2016-01-31T23:57:09.868Z'
+datePublished: '2016-01-31T23:57:09.740Z'
 dateModified: '2016-01-31T23:57:05.973Z'
 sourcePath: _posts/2016-01-30-heres-why-your-ex-always-shows-up-in-your-facebook-feed.md
 published: true
