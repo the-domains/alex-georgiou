@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Alex Georgiou]]></title>
-        <description><![CDATA[Alex Georgiou]]></description>
-        <link>https://thegrid.ai/alex-georgiou/</link>
+        <title><![CDATA[The Book]]></title>
+        <description><![CDATA[The Book]]></description>
+        <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 15:36:06 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/alex-georgiou/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 23:43:04 GMT</lastBuildDate>
+        <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Adblock reveals how it charges companies to let ads through]]></title>
             <description><![CDATA[<article><h1>Adblock reveals how it charges companies to let ads through</h1><p>Adblock Plus, one of the world's most popular ad blockers, is pushing to separate its acceptable ads program from its core business and make it appear more independent. Acceptable advertising is a controversial program in which sites can pay the company to allow their advertising through the filter, where it would usually be automatically blocked.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c7e1357968ff12fba52a0e4280fee93d382fc1.jpg"></article>]]></description>
@@ -21,6 +21,13 @@
             <pubDate>Sat, 30 Jan 2016 23:59:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Adblock Plus reveals how it’s charging companies to let ads through your ad blocker]]></title>
+            <description><![CDATA[<article><h1>Adblock Plus reveals how it’s charging companies to let ads through your ad blocker</h1><p>Some large companies, including Google, arerumored to pay the companyto show you ads despite the fact that you’ve installed an ad blocker. Adblock Plus argues that the program is opt-out, however it is sometimes confusing what’s really going on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2586b10e810db7d723fee1e44502fefe83f27a63.jpg"></article>]]></description>
+            <link>http://book.alexgeorgiou.digital/adblock-plus-reveals-how-its-charging-companies-to-let-ads/index.html</link>
+            <guid isPermaLink="false">7ae58dcc-f89f-4875-8755-cd4e724d4b5c</guid>
+            <pubDate>Sun, 31 Jan 2016 23:42:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SEO: The Free Beginner's Guide from Moz]]></title>
             <description><![CDATA[<article><h1>SEO: The Free Beginner's Guide from Moz</h1><p>New to SEO? Need to polish up your knowledge? The Beginner's Guide to SEO has been read over 3 million times and provides comprehensive information you need to get on the road to professional quality Search Engine Optimization, or SEO.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6532e4f8993212b67853792e33a538755624b817.png"></article>]]></description>
             <link>https://moz.com/beginners-guide-to-seo</link>
@@ -30,7 +37,7 @@
         <item>
             <title><![CDATA[The 37 Best Websites To Learn Something New - Life Learning]]></title>
             <description><![CDATA[<article><h1>The 37 Best Websites To Learn Something New - Life Learning</h1><p>Forget overpriced schools, long days in a crowded classroom, and pitifully poor results. These websites and apps cover myriads of science, art, and technology topics. They will teach you practically anything, from making hummus to building apps in node.js, most of them for free.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b65fa2fc3dfa624832701e1a22e066a912aeaea.png"></article>]]></description>
-            <link>https://thegrid.ai/alex-georgiou/the-37-best-websites-to-learn-something-new-life-learning/index.html</link>
+            <link>http://book.alexgeorgiou.digital/the-37-best-websites-to-learn-something-new-life-learning/index.html</link>
             <guid isPermaLink="false">de866cfc-567a-4207-ae33-a8f920bf3689</guid>
             <pubDate>Sun, 31 Jan 2016 15:26:44 GMT</pubDate>
         </item>
@@ -44,7 +51,7 @@
         <item>
             <title><![CDATA[The State of UX Design - Blog Posts from the FFW Team]]></title>
             <description><![CDATA[<article><h1>The State of UX Design - Blog Posts from the FFW Team</h1><p>thoughts on designing digital products in the year 2015 User experience design has come a long way since Don Norman coined the term in the 90's. It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector - in only a matter of years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a0aa0301ccc759835c43924c9c34c9fb6e2cc30.jpg"></article>]]></description>
-            <link>https://thegrid.ai/alex-georgiou/the-state-of-ux-design-blog-posts-from-the-ffw-team/index.html</link>
+            <link>http://book.alexgeorgiou.digital/the-state-of-ux-design-blog-posts-from-the-ffw-team/index.html</link>
             <guid isPermaLink="false">8c58a5f7-f010-4cec-af29-c3544e48e70b</guid>
             <pubDate>Sun, 31 Jan 2016 15:26:44 GMT</pubDate>
         </item>
