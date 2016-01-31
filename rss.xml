@@ -4,7 +4,7 @@
         <description><![CDATA[Alex Georgiou]]></description>
         <link>https://thegrid.ai/alex-georgiou/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 15:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 15:27:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-georgiou/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Adblock reveals how it charges companies to let ads through]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Sat, 30 Jan 2016 23:59:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://dc8hdnsmzapvm.cloudfront.net/assets/images/beginners/banner-chapter-1.png?071beec">]]></description>
+            <link>https://thegrid.ai/alex-georgiou/0e41a256-7b24-4f38-ae7a-ea1182fead97/index.html</link>
+            <guid isPermaLink="false">0e41a256-7b24-4f38-ae7a-ea1182fead97</guid>
+            <pubDate>Sun, 31 Jan 2016 15:26:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The State of UX Design - Blog Posts from the FFW Team]]></title>
-            <description><![CDATA[<article><h1>The State of UX Design - Blog Posts from the FFW Team</h1><p>thoughts on designing digital products in the year 2015 User experience design has come a long way since Don Norman coined the term in the 90's. It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector - in only a matter of years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d774ce926a64ce8ad6cc745801e917f4907357.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The State of UX Design - Blog Posts from the FFW Team</h1><p>thoughts on designing digital products in the year 2015 User experience design has come a long way since Don Norman coined the term in the 90's. It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector - in only a matter of years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a0aa0301ccc759835c43924c9c34c9fb6e2cc30.jpg"></article>]]></description>
             <link>https://thegrid.ai/alex-georgiou/the-state-of-ux-design-blog-posts-from-the-ffw-team/index.html</link>
             <guid isPermaLink="false">8c58a5f7-f010-4cec-af29-c3544e48e70b</guid>
             <pubDate>Sun, 31 Jan 2016 15:26:44 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://googleblog.blogspot.gr/2015/10/introducing-accelerated-mobile-pages.html</link>
             <guid isPermaLink="false">79a9f1dc-6748-4d43-a152-0889d9750754</guid>
             <pubDate>Sun, 31 Jan 2016 01:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Expanding Live Video to More People]]></title>
-            <description><![CDATA[<article><h1>Expanding Live Video to More People</h1><p>By Vadim Lavrusik, Product Manager In December, we started testing the ability for people to share live video on Facebook, and it has been inspiring to see all the ways that people have used Live to connect with their friends and family. Today, we're excited to expand the ability to share live video to everyone in the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68f5e18fb296cd01852c938003a8a359141a2c00.jpg"></article>]]></description>
-            <link>http://newsroom.fb.com/news/2016/01/expanding-live-video/</link>
-            <guid isPermaLink="false">2599930b-ee7f-4f7d-9a3b-8df6340d8b3c</guid>
-            <pubDate>Sat, 30 Jan 2016 23:54:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
