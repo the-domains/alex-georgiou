@@ -4,7 +4,7 @@
         <description><![CDATA[Alex Georgiou]]></description>
         <link>https://thegrid.ai/alex-georgiou/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 15:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 15:27:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alex-georgiou/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Adblock reveals how it charges companies to let ads through]]></title>
@@ -19,6 +19,20 @@
             <link>http://mashable.com/2016/01/27/ex-always-on-facebook-feed</link>
             <guid isPermaLink="false">9eed3ed9-cd73-4e6d-93ce-4d0a14deae61</guid>
             <pubDate>Sat, 30 Jan 2016 23:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 37 Best Websites To Learn Something New - Life Learning]]></title>
+            <description><![CDATA[<article><h1>The 37 Best Websites To Learn Something New - Life Learning</h1><p>Forget overpriced schools, long days in a crowded classroom, and pitifully poor results. These websites and apps cover myriads of science, art, and technology topics. They will teach you practically anything, from making hummus to building apps in node.js, most of them for free.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/218956d6b8c9f90b6be0370805fb4fa53a991491.png"></article>]]></description>
+            <link>https://thegrid.ai/alex-georgiou/the-37-best-websites-to-learn-something-new-life-learning/index.html</link>
+            <guid isPermaLink="false">de866cfc-567a-4207-ae33-a8f920bf3689</guid>
+            <pubDate>Sun, 31 Jan 2016 15:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The first 5 online resources to use when learning to code]]></title>
+            <description><![CDATA[<article><h1>The first 5 online resources to use when learning to code</h1><p>Even if you think the buzz around "learning how to code" is overkill, you have to admit it's here to stay. Just like it's easier to learn a foreign language if you start in grade school, getting an early grasp on mark-up and programming languages such as HTML, CSS and Java ensures you'll have an idea of what makes our digital lives and devices tick, even if you don't plan on becoming a software developer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a9f5f11559bc9ce1873590535f67d312da9fb73.jpg"></article>]]></description>
+            <link>http://mashable.com/2014/12/08/learn-code-resources/?utm_cid=mash-com-fb-main-link#WLI0WujgEPqB</link>
+            <guid isPermaLink="false">8f6adc1f-7742-4dfb-acea-1d4bb4003600</guid>
+            <pubDate>Sun, 31 Jan 2016 15:26:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>http://mashable.com/2016/01/30/google-fiber-phone/#d7cBdsriUqqD</link>
             <guid isPermaLink="false">73a8493e-8ba2-49f0-af17-b159706496cd</guid>
             <pubDate>Sun, 31 Jan 2016 09:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple in 2016: Is the mighty iPhone in decline? - BBC News]]></title>
-            <description><![CDATA[<article><h1>Apple in 2016: Is the mighty iPhone in decline? - BBC News</h1><p>Apple's investors are spooked. Despite a rip-roaring 2015, something peculiar happened this month: Apple's stock value dropped to below $100 for the first time since October 2014. That was down from a high of just over $132 last May.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adfdee4af1b7ae07182b2c669c564f266890c4ee.jpg"></article>]]></description>
-            <link>http://www.bbc.com/news/technology-35401668?ocid=socialflow_facebook&amp;ns_mchannel=social&amp;ns_campaign=bbcnews&amp;ns_source=facebook</link>
-            <guid isPermaLink="false">d9cf3b63-739a-4570-9d17-ea9ceff640b4</guid>
-            <pubDate>Sat, 30 Jan 2016 23:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing the Accelerated Mobile Pages Project, for a faster, open mobile web]]></title>
-            <description><![CDATA[<article><h1>Introducing the Accelerated Mobile Pages Project, for a faster, open mobile web</h1><p>Smartphones and tablets have revolutionized the way we access information, and today people consume a tremendous amount of news on their phones. Publishers around the world use the mobile web to reach these readers, but the experience can often leave a lot to be desired.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83d73bd36535de6cb7996e3600c5233d1b730515.png"></article>]]></description>
-            <link>https://googleblog.blogspot.gr/2015/10/introducing-accelerated-mobile-pages.html</link>
-            <guid isPermaLink="false">79a9f1dc-6748-4d43-a152-0889d9750754</guid>
-            <pubDate>Sun, 31 Jan 2016 01:02:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
