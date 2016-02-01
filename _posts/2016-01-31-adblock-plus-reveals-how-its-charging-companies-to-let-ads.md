@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Adblock Plus, one of the world’s most popular ad blockers, is pushing to separate its acceptable ads program from its core business and make it appear more independent.'
-datePublished: '2016-02-01T00:04:08.945Z'
+datePublished: '2016-02-01T00:04:09.009Z'
 dateModified: '2016-02-01T00:04:03.234Z'
 title: Adblock Plus reveals how it’s charging companies to let ads through your ad blocker
 author: []
