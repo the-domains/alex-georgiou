@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://mashable.com'
-  name: Mashable
-  favicon: 'http://mashable.com/favicon.ico?v=m2Pmw8zNwl'
-  domain: mashable.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://mashable.com/2016/01/29/sony-jump-sales-playstation-4/#yYKryxBbvGqr'
+inLanguage: en
+starred: true
 keywords:
   - sony
   - yen
@@ -18,17 +17,20 @@ keywords:
   - japanese
   - ps4
 description: 'TOKYO - Sony Corp. reported a 33.5% jump in quarterly profit as sales improved in its PlayStation 4 video game business. Tokyo-based Sony kept its full-year profit projection unchanged Friday at 140 billion yen ($1.2 billion), which would be a reversal from red ink in the previous fiscal year.'
-inLanguage: en
+datePublished: '2016-02-01T08:54:06.636Z'
+dateModified: '2016-02-01T08:54:04.599Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://mashable.com/2016/01/29/sony-jump-sales-playstation-4/#yYKryxBbvGqr'
 title: Sony reports big jump in sales thanks to PlayStation 4
-datePublished: '2016-01-31T09:37:17.099Z'
-dateModified: '2016-01-31T09:34:21.982Z'
 sourcePath: _posts/2016-01-31-sony-reports-big-jump-in-sales-thanks-to-playstation-4.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Mashable
+  domain: mashable.com
+  url: 'http://mashable.com'
+  favicon: 'http://mashable.com/favicon.ico?v=m2Pmw8zNwl'
 _context: 'http://schema.org'
 _type: MediaObject
 
