@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Book. Alex Georgiou]]></title>
-        <description><![CDATA[The Book. Alex Georgiou]]></description>
+        <title><![CDATA[Alex Georgiou. The Book]]></title>
+        <description><![CDATA[Alex Georgiou. The Book]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 14:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 14:28:24 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sony reports big jump in sales thanks to PlayStation 4]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 01 Feb 2016 00:40:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How To Lead A Creative Life [Infographic] | Fast Company]]></title>
+            <description><![CDATA[<article><h1>How To Lead A Creative Life [Infographic] | Fast Company</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98be9f588a7067885f8a23f47c119c8571181341.jpg"></article>]]></description>
+            <link>http://infographics.fastcompany.com/magazine/161/creative-life.html</link>
+            <guid isPermaLink="false">4bf9962b-8ae3-453a-bf53-cd8a9c8a15f1</guid>
+            <pubDate>Mon, 01 Feb 2016 14:28:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Website Speed Actually Impacts Search Ranking]]></title>
-            <description><![CDATA[<article><h1>How Website Speed Actually Impacts Search Ranking</h1><p>Google uses a multitude of factors to determine how to rank search engine results. Typically, these factors are either related to the content of a webpage itself (the text, its URL, the titles and headers, etc.) or were measurements of the authenticity of the website itself (age of the domain name, number and quality of inbound links, etc.).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75d20106c6654e99e8fe1370f55f59a10c4741c8.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How Website Speed Actually Impacts Search Ranking</h1><p>Google uses a multitude of factors to determine how to rank search engine results. Typically, these factors are either related to the content of a webpage itself (the text, its URL, the titles and headers, etc.) or were measurements of the authenticity of the website itself (age of the domain name, number and quality of inbound links, etc.).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/995d9d367f08ea3b525898aff5620055cc0d0c3d.png"></article>]]></description>
             <link>https://moz.com/blog/how-website-speed-actually-impacts-search-ranking</link>
             <guid isPermaLink="false">1588ced3-84b5-4b8f-8c55-445e92eeb0cc</guid>
             <pubDate>Mon, 01 Feb 2016 14:11:29 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.swiftbranding.com/the-definite-guide-to-personal-branding/?utm_content=buffer63d29&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">1b85d442-c872-4194-abfb-1a462cc4de04</guid>
             <pubDate>Sun, 31 Jan 2016 15:26:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Project Fi]]></title>
-            <description><![CDATA[<article><h1>Project Fi</h1><p>Project Fi is a program to deliver a fast, easy wireless experience in close partnership with leading carriers, hardware makers, and our users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47ed4d536d0da6fd28b7db00686dd7a2f1c5dc5e.png"></article>]]></description>
-            <link>https://fi.google.com/about/</link>
-            <guid isPermaLink="false">bb9ff2b4-c347-4701-ac7b-6a47d4184eb7</guid>
-            <pubDate>Sun, 31 Jan 2016 09:37:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
