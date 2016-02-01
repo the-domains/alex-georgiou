@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://thenextweb.com'
   name: The Next Web
-  favicon: 'http://thenextweb.com/favicon.ico'
   domain: thenextweb.com
+  url: 'http://thenextweb.com'
+  favicon: 'http://thenextweb.com/favicon.ico'
 keywords:
   - adblock
   - advertising
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://thenextweb.com/insider/2015/12/16/adblock-plus-reveals-how-its-charging-companies-to-let-ads-through-your-ad-blocker/#gref'
 title: Adblock reveals how it charges companies to let ads through
-datePublished: '2016-02-01T00:33:25.927Z'
-dateModified: '2016-02-01T00:33:09.185Z'
+datePublished: '2016-02-01T00:33:44.982Z'
+dateModified: '2016-02-01T00:33:40.205Z'
 sourcePath: _posts/2016-02-01-adblock-reveals-how-it-charges-companies-to-let-ads-through.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
