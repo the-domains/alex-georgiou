@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Book]]></title>
-        <description><![CDATA[The Book]]></description>
+        <title><![CDATA[The Book. Alex Georgiou]]></title>
+        <description><![CDATA[The Book. Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 00:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 08:54:10 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Sony reports big jump in sales thanks to PlayStation 4]]></title>
+            <description><![CDATA[<article><h1>Sony reports big jump in sales thanks to PlayStation 4</h1><p>TOKYO - Sony Corp. reported a 33.5% jump in quarterly profit as sales improved in its PlayStation 4 video game business. Tokyo-based Sony kept its full-year profit projection unchanged Friday at 140 billion yen ($1.2 billion), which would be a reversal from red ink in the previous fiscal year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3159deeca42359d0c3d417ec728268b964eb646f.jpg"></article>]]></description>
+            <link>http://mashable.com/2016/01/29/sony-jump-sales-playstation-4/#yYKryxBbvGqr</link>
+            <guid isPermaLink="false">4c5aaa4c-f33c-4ad7-b9de-58105b1be298</guid>
+            <pubDate>Mon, 01 Feb 2016 08:54:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Adblock reveals how it charges companies to let ads through]]></title>
-            <description><![CDATA[<article><h1>Adblock reveals how it charges companies to let ads through</h1><p>Adblock Plus, one of the world's most popular ad blockers, is pushing to separate its acceptable ads program from its core business and make it appear more independent. Acceptable advertising is a controversial program in which sites can pay the company to allow their advertising through the filter, where it would usually be automatically blocked.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c7e1357968ff12fba52a0e4280fee93d382fc1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Adblock reveals how it charges companies to let ads through</h1><p>Some large companies, including Google, are rumored to pay the company to show you ads despite the fact that you’ve installed an ad blocker. Adblock Plus argues that the program is opt-out, however it is sometimes confusing what’s really going on.As part of that initiative, Adblock Plus has today revealed just what the program involves, how much money it asks for and who it requires to pay for their ads to slip through the filter. According to the company, only “large entities” need to pay to get on the list while smaller players are able to join the program for free, provided their advertising fits within the criteria.Larger entities are defined as websites with more than 10 million ad impressions “due to” participation in the program. It asks for a whopping 30 percent of the revenues gained from whitelisting, which likely add up to huge numbers.The company says that for smaller entities it doesn’t require participants to pay, since it’s funded by the larger players.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/979f4e74ce02b20984d138abd41dd63d8794bbf5.jpg"></article>]]></description>
             <link>http://book.alexgeorgiou.digital/adblock-reveals-how-it-charges-companies-to-let-ads-through/index.html</link>
             <guid isPermaLink="false">c7db3469-1b82-4884-bc3d-3134f1462012</guid>
             <pubDate>Mon, 01 Feb 2016 00:40:40 GMT</pubDate>
@@ -54,13 +61,6 @@
             <link>http://www.swiftbranding.com/the-definite-guide-to-personal-branding/?utm_content=buffer63d29&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">1b85d442-c872-4194-abfb-1a462cc4de04</guid>
             <pubDate>Sun, 31 Jan 2016 15:26:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sony reports big jump in sales thanks to PlayStation 4]]></title>
-            <description><![CDATA[<article><h1>Sony reports big jump in sales thanks to PlayStation 4</h1><p>TOKYO - Sony Corp. reported a 33.5% jump in quarterly profit as sales improved in its PlayStation 4 video game business. Tokyo-based Sony kept its full-year profit projection unchanged Friday at 140 billion yen ($1.2 billion), which would be a reversal from red ink in the previous fiscal year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3159deeca42359d0c3d417ec728268b964eb646f.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/01/29/sony-jump-sales-playstation-4/#yYKryxBbvGqr</link>
-            <guid isPermaLink="false">4c5aaa4c-f33c-4ad7-b9de-58105b1be298</guid>
-            <pubDate>Sun, 31 Jan 2016 09:37:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Project Fi]]></title>
