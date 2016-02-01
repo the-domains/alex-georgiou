@@ -17,7 +17,7 @@ keywords:
   - japanese
   - ps4
 description: 'TOKYO - Sony Corp. reported a 33.5% jump in quarterly profit as sales improved in its PlayStation 4 video game business. Tokyo-based Sony kept its full-year profit projection unchanged Friday at 140 billion yen ($1.2 billion), which would be a reversal from red ink in the previous fiscal year.'
-datePublished: '2016-02-01T08:54:06.636Z'
+datePublished: '2016-02-01T08:54:06.742Z'
 dateModified: '2016-02-01T08:54:04.599Z'
 author: []
 related: []
