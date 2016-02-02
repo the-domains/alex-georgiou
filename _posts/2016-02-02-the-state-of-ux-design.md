@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: thoughts on designing digital products in the year 2015
-datePublished: '2016-02-02T16:19:52.101Z'
-dateModified: '2016-02-02T16:19:46.758Z'
+datePublished: '2016-02-02T16:20:22.799Z'
+dateModified: '2016-02-02T16:20:18.868Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-02-the-state-of-ux-design.md
@@ -25,7 +25,7 @@ _type: Article
 # The State of UX Design
 
 ## thoughts on designing digital products in the year 2015
-![thoughts on designing digital products in the year 2015](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e2343db173f867709226d9d376ebbfca0d4b718.jpg)
+![thoughts on designing digital products in the year 2015](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af33ad1866d9e8eda29653b72edce56728cbb3d.jpg)
 
 #### _It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector --- in only a matter of years. "UX Designer" is one of the [10 most popular job titles that barely existed 5 years ago][0] with an explosive 22x growth since 2008\. And the demand for [UX Designers in the job market][1] seems to just keep on increasing, with thousands of open job positions worldwide._
 
@@ -56,8 +56,6 @@ As opposed to Photoshop, Sketch is simple and intuitive, and provides just the r
 And apparently, my friend and her team is not alone in using Sketch to improve thier UX workflow:
 
 > That's it in a nutshell. One app, one streamlined system to deal with UX, wireframing and final design. 
-> 
-> 
 
 # Example 2: Prototyping tools as a bridge between UI design and interaction design
 
@@ -80,8 +78,6 @@ All these frameworks bring together a number of best practices and useful front-
 > But what about those UX designers that are not proficient in code? 
 
 Luckily, a number of new tools are appearing that enable designers to create semantic, well-coded prototypes --- without necessarily writing any code themselves. These "codesign" (code + design) tools give UX designers a familiar visual interface to work in, manage responsive breakpoints and add animation and interactivity, and then automatically generates the corresponding code. The less code-savvy UX designers at FFW have used Webflow extensively --- and to great success --- , but other options include Macaw and FROONT. 
-
-## 
 
 ## So then --- what is the state of UX design in 2015?
 
