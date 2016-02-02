@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: thoughts on designing digital products in the year 2015
-datePublished: '2016-02-02T15:44:02.651Z'
-dateModified: '2016-02-02T15:43:54.684Z'
+datePublished: '2016-02-02T15:45:48.018Z'
+dateModified: '2016-02-02T15:45:44.796Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-02-the-state-of-ux-design.md
@@ -22,13 +22,13 @@ url: the-state-of-ux-design/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d99b58ee6a705c7e8ab580c91e301f1e7095131.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c675aefb84848f15ed48b662b4c365b7e5c328.jpg)
 
 # The State of UX Design
 
 #### thoughts on designing digital products in the year 2015
 
-It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector --- in only a matter of years. "UX Designer" is one of the 10 most popular job titles that barely existed 5 years ago with an explosive 22x growth since 2008\. And the demand for UX Designers in the job market seems to just keep on increasing, with thousands of open job positions worldwide. There can hardly be any doubt; UX Design is all the rave in the year 2015\. So what better time to take a step back, and assess the state of the UX Design field? 
+#### It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector --- in only a matter of years. "UX Designer" is one of the [10 most popular job titles that barely existed 5 years ago][0]with an explosive 22x growth since 2008\. And the demand for [UX Designers in the job market][1]seems to just keep on increasing, with thousands of open job positions worldwide.There can hardly be any doubt; UX Design is all the rave in the year 2015\. So what better time to take a step back, and assess the state of the UX Design field?
 
 So what is UX Design, really? In recent years, the UX community has seen many a discussion about the definition and boundaries of UX design. At one end of the spectrum, many seem to focus the term "UX design" around user research and information architecture. This makes a lot of sense --- certainly, these disciplines play an integral role in ensuring a good user experience in a digital product. Additionally, these disciplines are related to a lot of tools and methodologies that have come to be closely associated with the UX Designer: personas, use cases, wireframes, and so on. At the other end of the spectrum, we occasionally find the term UX design used almost interchangeably with User Interface (UI) Design. And while this tendency has been criticized thoroughly --- even lividly --- I can personally just as easily sympathize with this idea: if the actual interface and interactions of a digital product is not pivotal for the user experience, then what is?"The Disciplines of User Experience Design", poster by envis precisely. But although I can personally relate to both these definitions of UX design, I also think they share the same flaw: they're both reductive in their attempt at restraining the term "UX design" to a certain set of tools or a certain part of the design phase. 
 
@@ -41,3 +41,6 @@ Previously the handoff from wireframing to UI design had been complex process fo
 At FFW we often use a variety of the tools mentioned above in our UX process to achieve this goal --- but when possible, we prefer to design with code. Designing with code is becoming an increasingly popular practice in the UX community. By skipping static mockups and instead creating designs and prototypes directly in code, designers are able to design and test all the details of the UX, including user flows, transitions, states and interactivity, in all the various mediums and platforms. Coded prototypes allow UX designers to test their every design assumption with actual users. People can see, click, swipe, tap, scroll and experience exactly how the product is supposed to work and behave.Designing with code is becoming an increasingly popular practice among UX designers. There are plenty of great open source frameworks for designing with code and creating prototypes in-browser, such as Headstart, Roots or Web Starter Kit --- but another option is obviously to "roll your own". (In a future blog post, I'll elaborate more on the setup that we have chosen to go with. However, should you find yourself at DrupalCon 2015 in Barcelona in September, you can drop by and hear me talk about it) All these frameworks bring together a number of best practices and useful front-end tools to create an ideal starting point for quickly putting together prototypes. This not only helps to bridge the gap between UI design and interaction design , but potentially also between UX and front-end development. Developers are able to follow along in the entire UX process, and can reuse all (or large parts of) the code in the final product. But what about those UX designers that are not proficient in code? Luckily, a number of new tools are appearing that enable designers to create semantic, well-coded prototypes --- without necessarily writing any code themselves. These "codesign" (code + design) tools give UX designers a familiar visual interface to work in, manage responsive breakpoints and add animation and interactivity, and then automatically generates the corresponding code. The less code-savvy UX designers at FFW have used Webflow extensively --- and to great success --- , but other options include Macaw and FROONT. So then --- what is the state of UX design in 2015? While "UX design" as a field and a term can certainly be accused of blurring boundaries and making it difficult to distinguish between the disciplines, I think that it may just as well be applauded for bringing them together. UX design is a multidisciplinary spectrum, and few UX designers span the entirety of it --- but the spectrum allows us to break out of the silo mentality and establish a common mindset. In 2015, I think we're really seeing the effects of this. 
 
 Despite varying "UX xyz" job titles and individual areas of focus, new tools and methodologies are bridging the gaps between the various disciplines under the UX umbrella. Tools for information architecture, for visual design, for prototyping and for coding are allowing UX designers to collaborate more easily, and are creating much more rapid and iterative workflows. This is great news; for us in the UX field, and for the users that we're designing for. I can't wait to see what the future will bring.
+
+[0]: http://talent.linkedin.com/blog/index.php/2014/01/top-10-job-titles-that-didnt-exist-5-years-ago-infographic
+[1]: http://blog.bloc.io/job-market-for-ux-ui-designers/
