@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Τhoughts on designing digital products in the year 2015
-datePublished: '2016-02-02T15:31:24.916Z'
+datePublished: '2016-02-02T15:31:24.990Z'
 dateModified: '2016-02-02T15:31:21.959Z'
 title: "Design has come a long way since Don Norman coined the term in the 90’s.\_"
 author: []
