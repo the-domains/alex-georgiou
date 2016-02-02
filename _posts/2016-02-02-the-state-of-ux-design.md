@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: thoughts on designing digital products in the year 2015
-datePublished: '2016-02-02T15:47:54.471Z'
-dateModified: '2016-02-02T15:47:41.553Z'
+datePublished: '2016-02-02T15:50:28.580Z'
+dateModified: '2016-02-02T15:50:24.698Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-02-the-state-of-ux-design.md
@@ -22,15 +22,15 @@ url: the-state-of-ux-design/index.html
 _type: Article
 
 ---
-![AHAHAHAHAHAHA](https://s3-us-west-2.amazonaws.com/the-grid-img/p/db42b7db711402be709898189c65cc423dfc8130.jpg)
+![thoughts on designing digital products in the year 2015](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1c1fc9a4b7ab25b277de17591c6b5a2fe6427ca.jpg)
 
 # The State of UX Design
 
-#### thoughts on designing digital products in the year 2015
+## thoughts on designing digital products in the year 2015
 
-#### It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector --- in only a matter of years. "UX Designer" is one of the [10 most popular job titles that barely existed 5 years ago][0]with an explosive 22x growth since 2008\. And the demand for [UX Designers in the job market][1]seems to just keep on increasing, with thousands of open job positions worldwide.There can hardly be any doubt; UX Design is all the rave in the year 2015\. So what better time to take a step back, and assess the state of the UX Design field?
+#### _It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector --- in only a matter of years. "UX Designer" is one of the[10 most popular job titles that barely existed 5 years ago][0]with an explosive 22x growth since 2008\. And the demand for[UX Designers in the job market][1]seems to just keep on increasing, with thousands of open job positions worldwide._
 
-So what is UX Design, really? In recent years, the UX community has seen many a discussion about the definition and boundaries of UX design. At one end of the spectrum, many seem to focus the term "UX design" around user research and information architecture. This makes a lot of sense --- certainly, these disciplines play an integral role in ensuring a good user experience in a digital product. Additionally, these disciplines are related to a lot of tools and methodologies that have come to be closely associated with the UX Designer: personas, use cases, wireframes, and so on. At the other end of the spectrum, we occasionally find the term UX design used almost interchangeably with User Interface (UI) Design. And while this tendency has been criticized thoroughly --- even lividly --- I can personally just as easily sympathize with this idea: if the actual interface and interactions of a digital product is not pivotal for the user experience, then what is?"The Disciplines of User Experience Design", poster by envis precisely. But although I can personally relate to both these definitions of UX design, I also think they share the same flaw: they're both reductive in their attempt at restraining the term "UX design" to a certain set of tools or a certain part of the design phase. 
+## There can hardly be any doubt; UX Design is all the rave in the year 2015\. So what better time to take a step back, and assess the state of the UX Design field?
 
 The fact of the matter is that UX design is not one discipline. UX design is a multidisciplinary approach to designing digital products, and it encompasses a number of disciplines. Information architecture, interaction design, UI design, usability --- really any discipline related to shaping a user's experience of a given digital product falls within the boundaries of UX design. "UX design" is an umbrella term. UX design as a mindset Operating within a field as broad as UX can be scary. The many disciplines involved in UX design can make even the most talented professionals feel inadequate. What kind of unicorn could possibly master all these skills? So in an attempt to communicate more clearly which of the UX disciplines, each of us are specialized in, we've seen a plethora of UX job titles appear alongside "UX Designer": UX Architect, UX Consultant, UX Specialist, UX Researcher, UX Developer and so on. One might argue this shift towards UX-related job titles is simply a matter of marketing --- i.e. "UX" is trendy, and we all want a piece of the pie. A very persuasive argument can even be made that the term "UX Design" is just a fad, and that sticking with titles such as Information Architect, Design Researcher, Visual Designer or Interaction Designer would be a much better way to distinguish between specializations. There may certainly be a lot of truth to this criticism. 
 
