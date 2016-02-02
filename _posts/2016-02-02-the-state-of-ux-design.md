@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Τhoughts on designing digital products in the year 2015
-datePublished: '2016-02-02T15:26:02.853Z'
-dateModified: '2016-02-02T15:25:54.114Z'
-title: ' '
+datePublished: '2016-02-02T15:31:24.916Z'
+dateModified: '2016-02-02T15:31:21.959Z'
+title: "Design has come a long way since Don Norman coined the term in the 90’s.\_"
 author: []
 sourcePath: _posts/2016-02-02-the-state-of-ux-design.md
 published: true
@@ -22,9 +22,7 @@ url: the-state-of-ux-design/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/332cecd460092917ee7dff8331393f7b0de6ffe3.jpg)
-
-# 
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a643b52cd1fcbb3c2e6e3e2f882df43594bd246.jpg)
 
 # Design has come a long way since Don Norman coined the term in the 90's. 
 
