@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: thoughts on designing digital products in the year 2015
-datePublished: '2016-02-02T15:50:28.647Z'
-dateModified: '2016-02-02T15:50:24.698Z'
+datePublished: '2016-02-02T15:53:50.328Z'
+dateModified: '2016-02-02T15:53:46.403Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-02-the-state-of-ux-design.md
@@ -22,11 +22,10 @@ url: the-state-of-ux-design/index.html
 _type: Article
 
 ---
-![thoughts on designing digital products in the year 2015](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1c1fc9a4b7ab25b277de17591c6b5a2fe6427ca.jpg)
-
 # The State of UX Design
 
 ## thoughts on designing digital products in the year 2015
+![thoughts on designing digital products in the year 2015](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1c1fc9a4b7ab25b277de17591c6b5a2fe6427ca.jpg)
 
 #### _It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector --- in only a matter of years. "UX Designer" is one of the[10 most popular job titles that barely existed 5 years ago][0]with an explosive 22x growth since 2008\. And the demand for[UX Designers in the job market][1]seems to just keep on increasing, with thousands of open job positions worldwide._
 
