@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Τhoughts on designing digital products in the year 2015
-datePublished: '2016-02-02T15:26:02.757Z'
+datePublished: '2016-02-02T15:26:02.853Z'
 dateModified: '2016-02-02T15:25:54.114Z'
 title: ' '
 author: []
