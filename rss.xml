@@ -4,7 +4,7 @@
         <description><![CDATA[Alex Georgiou. The Book]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 14:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 14:52:17 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sony reports big jump in sales thanks to PlayStation 4]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 01 Feb 2016 00:40:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Happening now: Social Media Crisis]]></title>
+            <description><![CDATA[<article><h1>Happening now: Social Media Crisis</h1><p>The term "crisis" in social media refers to any rapidly and widely spread negative comment all over the web, including social networks, blogs and fora. Most frequently, we consider that we are in a crisis situation when a negative mention or complaint is rapidly reproduced in social media.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7edca89c531e34cad291faed3b1fac7745e3baa9.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/happening-now-social-media-crisis-melina-politi</link>
+            <guid isPermaLink="false">23d0f417-baef-425d-a887-1d646771bfe0</guid>
+            <pubDate>Tue, 02 Feb 2016 14:51:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How To Lead A Creative Life [Infographic] | Fast Company]]></title>
-            <description><![CDATA[<article><h1>How To Lead A Creative Life [Infographic] | Fast Company</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98be9f588a7067885f8a23f47c119c8571181341.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How To Lead A Creative Life [Infographic] | Fast Company</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a64c6e6393f9de5a3fc983767e9f78a692df343.jpg"></article>]]></description>
             <link>http://infographics.fastcompany.com/magazine/161/creative-life.html</link>
             <guid isPermaLink="false">4bf9962b-8ae3-453a-bf53-cd8a9c8a15f1</guid>
             <pubDate>Mon, 01 Feb 2016 14:28:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://book.alexgeorgiou.digital/the-state-of-ux-design-blog-posts-from-the-ffw-team/index.html</link>
             <guid isPermaLink="false">8c58a5f7-f010-4cec-af29-c3544e48e70b</guid>
             <pubDate>Sun, 31 Jan 2016 15:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Definite Guide to Personal Branding]]></title>
-            <description><![CDATA[<article><h1>The Definite Guide to Personal Branding</h1><p>What is Branding? The process involved in creating a unique name and image for a product in the consumers' mind, mainly through advertising campaigns with a consistent theme. Branding aims to establish a significant and differentiated presence in the market that attracts and retains loyal customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c2806e613d509b0c1678574175c3e09930985b5.jpg"></article>]]></description>
-            <link>http://www.swiftbranding.com/the-definite-guide-to-personal-branding/?utm_content=buffer63d29&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">1b85d442-c872-4194-abfb-1a462cc4de04</guid>
-            <pubDate>Sun, 31 Jan 2016 15:26:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
