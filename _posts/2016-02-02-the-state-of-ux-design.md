@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: thoughts on designing digital products in the year 2015
-datePublished: '2016-02-02T15:37:36.420Z'
-dateModified: '2016-02-02T15:37:29.669Z'
+datePublished: '2016-02-02T15:39:31.086Z'
+dateModified: '2016-02-02T15:39:27.585Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-02-the-state-of-ux-design.md
@@ -22,7 +22,7 @@ url: the-state-of-ux-design/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a643b52cd1fcbb3c2e6e3e2f882df43594bd246.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/690702c635b8ef8bfa98903c31adf4fbae5c353f.jpg)
 
 # The State of UX Design
 
