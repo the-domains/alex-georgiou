@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T15:36:08.278Z'
+datePublished: '2016-02-02T15:36:08.423Z'
 dateModified: '2016-02-02T15:36:05.570Z'
 title: The State of UX Design
 author: []
