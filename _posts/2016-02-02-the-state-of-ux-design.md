@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: thoughts on designing digital products in the year 2015
-datePublished: '2016-02-07T23:02:11.670Z'
-dateModified: '2016-02-07T23:02:06.952Z'
+datePublished: '2016-02-07T23:06:38.541Z'
+dateModified: '2016-02-07T23:06:36.165Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-02-the-state-of-ux-design.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: the-state-of-ux-design/index.html
-_type: Article
+_type: Blurb
 
 ---
 # The State of UX Design
@@ -31,9 +31,7 @@ _type: Article
 
 ## There can hardly be any doubt; UX Design is all the rave in the year 2015\. So what better time to take a step back, and assess the state of the UX Design field?
 
-The fact of the matter is that UX design is not one discipline. UX design is a multidisciplinary approach to designing digital products, and it encompasses a number of disciplines. Information architecture, interaction design, UI design, usability --- really any discipline related to shaping a user's experience of a given digital product falls within the boundaries of UX design. "UX design" is an umbrella term. 
-
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ac0e01-c093-460f-bb16-5871a7a56394.png)
+The fact of the matter is that UX design is not one discipline. UX design is a multidisciplinary approach to designing digital products, and it encompasses a number of disciplines. Information architecture, interaction design, UI design, usability --- really any discipline related to shaping a user's experience of a given digital product falls within the boundaries of UX design. "UX design" is an umbrella term. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ac0e01-c093-460f-bb16-5871a7a56394.png)
 
 # UX design as a mindset
 
