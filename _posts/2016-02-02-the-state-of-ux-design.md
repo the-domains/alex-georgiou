@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: thoughts on designing digital products in the year 2015
-datePublished: '2016-02-07T23:02:01.887Z'
-dateModified: '2016-02-07T23:00:54.712Z'
+datePublished: '2016-02-07T23:02:11.670Z'
+dateModified: '2016-02-07T23:02:06.952Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-02-the-state-of-ux-design.md
@@ -93,5 +93,8 @@ This is great news; for us in the UX field, and for the users that we're designi
 
 I can't wait to see what the future will bring.
 
+_originaly published in: [medium.com][2]_
+
 [0]: http://talent.linkedin.com/blog/index.php/2014/01/top-10-job-titles-that-didnt-exist-5-years-ago-infographic
 [1]: http://blog.bloc.io/job-market-for-ux-ui-designers/
+[2]: https://medium.com/
