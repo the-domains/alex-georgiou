@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: thoughts on designing digital products in the year 2015
-datePublished: '2016-02-02T16:20:23.088Z'
-dateModified: '2016-02-02T16:20:18.868Z'
+datePublished: '2016-02-07T23:02:01.887Z'
+dateModified: '2016-02-07T23:00:54.712Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-02-the-state-of-ux-design.md
@@ -31,9 +31,11 @@ _type: Article
 
 ## There can hardly be any doubt; UX Design is all the rave in the year 2015\. So what better time to take a step back, and assess the state of the UX Design field?
 
-The fact of the matter is that UX design is not one discipline. UX design is a multidisciplinary approach to designing digital products, and it encompasses a number of disciplines. Information architecture, interaction design, UI design, usability --- really any discipline related to shaping a user's experience of a given digital product falls within the boundaries of UX design. 
+The fact of the matter is that UX design is not one discipline. UX design is a multidisciplinary approach to designing digital products, and it encompasses a number of disciplines. Information architecture, interaction design, UI design, usability --- really any discipline related to shaping a user's experience of a given digital product falls within the boundaries of UX design. "UX design" is an umbrella term. 
 
-# "UX design" is an umbrella term. UX design as a mindset
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ac0e01-c093-460f-bb16-5871a7a56394.png)
+
+# UX design as a mindset
 
 Operating within a field as broad as UX can be scary. The many disciplines involved in UX design can make even the most talented professionals feel inadequate. What kind of unicorn could possibly master all these skills? So in an attempt to communicate more clearly which of the UX disciplines, each of us are specialized in, we've seen a plethora of UX job titles appear alongside "UX Designer": UX Architect, UX Consultant, UX Specialist, UX Researcher, UX Developer and so on. 
 
@@ -90,9 +92,6 @@ In 2015, I think we're really seeing the effects of this. Despite varying "UX xy
 This is great news; for us in the UX field, and for the users that we're designing for.
 
 I can't wait to see what the future will bring.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58ac0e01-c093-460f-bb16-5871a7a56394.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db971c53-4880-47aa-8002-7a6c0e1e6a38.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fabe9264-ebab-483e-b95c-4c02fef3938e.jpg)
 
 [0]: http://talent.linkedin.com/blog/index.php/2014/01/top-10-job-titles-that-didnt-exist-5-years-ago-infographic
 [1]: http://blog.bloc.io/job-market-for-ux-ui-designers/
