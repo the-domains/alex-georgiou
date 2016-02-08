@@ -4,7 +4,7 @@
         <description><![CDATA[Alex Georgiou. The Book]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 23:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 23:53:46 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sony reports big jump in sales thanks to PlayStation 4]]></title>
@@ -19,6 +19,13 @@
             <link>http://book.alexgeorgiou.digital/adblock-reveals-how-it-charges-companies-to-let-ads-through/index.html</link>
             <guid isPermaLink="false">c7db3469-1b82-4884-bc3d-3134f1462012</guid>
             <pubDate>Mon, 01 Feb 2016 00:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Nine States of Design - The Startup]]></title>
+            <description><![CDATA[<article><h1>The Nine States of Design - The Startup</h1><p>Modern UI teams are designing components first; Interfaces are merely the thoughtful composition of components. This leaves an often glaring hole for users on "the unhappy path" - The places where users may, intentionally or not, stray from your idealized flow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/009ff2f398001e066c647a6d397b5569782abbfc.png"></article>]]></description>
+            <link>http://book.alexgeorgiou.digital/the-nine-states-of-design-the-startup/index.html</link>
+            <guid isPermaLink="false">42316684-129a-43df-90c8-f539a61bf932</guid>
+            <pubDate>Mon, 08 Feb 2016 23:53:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Happening now: Social Media Crisis]]></title>
