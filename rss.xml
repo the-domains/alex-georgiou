@@ -4,7 +4,7 @@
         <description><![CDATA[Alex Georgiou. The Book]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 23:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 23:54:01 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sony reports big jump in sales thanks to PlayStation 4]]></title>
@@ -19,6 +19,13 @@
             <link>http://book.alexgeorgiou.digital/adblock-reveals-how-it-charges-companies-to-let-ads-through/index.html</link>
             <guid isPermaLink="false">c7db3469-1b82-4884-bc3d-3134f1462012</guid>
             <pubDate>Mon, 01 Feb 2016 00:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The State of UX Design - Blog Posts from the FFW Team]]></title>
+            <description><![CDATA[<article><h1>The State of UX Design - Blog Posts from the FFW Team</h1><p>thoughts on designing digital products in the year 2015 User experience design has come a long way since Don Norman coined the term in the 90's. It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector - in only a matter of years.</p><img src="https://cdn-images-1.medium.com/max/1200/1*19ymVUGvriOmyreteZYk8w.png"></article>]]></description>
+            <link>http://book.alexgeorgiou.digital/the-state-of-ux-design-blog-posts-from-the-ffw-team/index.html</link>
+            <guid isPermaLink="false">75024366-096c-4fc3-9de7-fcc95ac78f9d</guid>
+            <pubDate>Mon, 08 Feb 2016 23:53:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A deep dive into the business of virtual reality porn]]></title>
@@ -68,13 +75,6 @@
             <link>https://moz.com/beginners-guide-to-seo</link>
             <guid isPermaLink="false">0db4e5a6-2cb3-43cf-a916-0aa2cfd4e163</guid>
             <pubDate>Sun, 31 Jan 2016 15:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 37 Best Websites To Learn Something New - Life Learning]]></title>
-            <description><![CDATA[<article><h1>The 37 Best Websites To Learn Something New - Life Learning</h1><p>Forget overpriced schools, long days in a crowded classroom, and pitifully poor results. These websites and apps cover myriads of science, art, and technology topics. They will teach you practically anything, from making hummus to building apps in node.js, most of them for free.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b65fa2fc3dfa624832701e1a22e066a912aeaea.png"></article>]]></description>
-            <link>http://book.alexgeorgiou.digital/the-37-best-websites-to-learn-something-new-life-learning/index.html</link>
-            <guid isPermaLink="false">de866cfc-567a-4207-ae33-a8f920bf3689</guid>
-            <pubDate>Sun, 31 Jan 2016 15:26:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
