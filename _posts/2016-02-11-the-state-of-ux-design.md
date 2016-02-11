@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Thoughts on designing digital products in the year 2015
-datePublished: '2016-02-11T18:06:33.641Z'
-dateModified: '2016-02-11T18:06:02.366Z'
+datePublished: '2016-02-11T18:07:35.931Z'
+dateModified: '2016-02-11T18:07:27.912Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-11-the-state-of-ux-design.md
@@ -73,7 +73,6 @@ New tools for designing interactions and transitions are bridging the gap betwee
 # Example 3: Designing with code as a bridge between UX and front-end development
 
 Digital products are both interactive and dynamic. So in order to create an optimal UX, neither showing nor telling is sufficient; UX designers should be able to feel and test exactly how the user will experience the actual product. At FFW we often use a variety of the tools mentioned above in our UX process to achieve this goal --- but when possible, we prefer to design with code. Designing with code is becoming an increasingly popular practice in the UX community. By skipping static mockups and instead creating designs and prototypes directly in code, designers are able to design and test all the details of the UX, including user flows, transitions, states and interactivity, in all the various mediums and platforms. Coded prototypes allow UX designers to test their every design assumption with actual users. People can see, click, swipe, tap, scroll and experience exactly how the product is supposed to work and behave.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d3b54eb8fc2144bd58fbff1fc21521fc/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fff31fde41b7c57b889d24388e0ebbb1485a0a931.png)
 
 Uploading Item...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/923fa1c4-505c-41b4-8b8c-b9b05039bf8b.png)
