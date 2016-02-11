@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Thoughts on designing digital products in the year 2015
-datePublished: '2016-02-11T12:06:50.446Z'
-dateModified: '2016-02-11T12:06:40.059Z'
+datePublished: '2016-02-11T12:12:23.390Z'
+dateModified: '2016-02-11T12:12:17.467Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-11-the-state-of-ux-design.md
@@ -24,22 +24,20 @@ _type: Article
 ---
 ![Thoughts on designing digital products in the year 2015](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b458d4979deebe3cc22a329eef921d8c185e631.jpg)
 
-# The State of UX Design
-
 ## Thoughts on designing digital products in the year 2015
 
 User experience design has come a long way since Don Norman coined the term in the 90's. It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector --- in only a matter of years. "UX Designer" is one of the 10 most popular job titles that barely existed 5 years ago with an explosive 22x growth since 2008\. And the demand for UX Designers in the job market seems to just keep on increasing, with thousands of open job positions worldwide. 
 
 There can hardly be any doubt; UX Design is all the rave in the year 2015\. So what better time to take a step back, and assess the state of the UX Design field?
 
-# So what is UX Design, really? 
+## So what is UX Design, really? 
 
 In recent years, the UX community has seen many a discussion about the definition and boundaries of UX design. At one end of the spectrum, many seem to focus the term "UX design" around user research and information architecture. This makes a lot of sense --- certainly, these disciplines play an integral role in ensuring a good user experience in a digital product. Additionally, these disciplines are related to a lot of tools and methodologies that have come to be closely associated with the UX Designer: personas, use cases, wireframes, and so on. At the other end of the spectrum, we occasionally find the term UX design used almost interchangeably with User Interface (UI) Design. And while this tendency has been criticized thoroughly --- even lividly --- I can personally just as easily sympathize with this idea: if the actual interface and interactions of a digital product is not pivotal for the user experience, then what is?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e641a3-6f5b-4feb-b866-fd0c752c74ba.png)
 
 But although I can personally relate to both these definitions of UX design, I also think they share the same flaw: they're both reductive in their attempt at restraining the term "UX design" to a certain set of tools or a certain part of the design phase. The fact of the matter is that UX design is not one discipline. UX design is a multidisciplinary approach to designing digital products, and it encompasses a number of disciplines. Information architecture, interaction design, UI design, usability --- really any discipline related to shaping a user's experience of a given digital product falls within the boundaries of UX design. "UX design" is an umbrella term.
 
-# UX design as a mindset
+## UX design as a mindset
 
 Operating within a field as broad as UX can be scary. The many disciplines involved in UX design can make even the most talented professionals feel inadequate. What kind of unicorn could possibly master all these skills? So in an attempt to communicate more clearly which of the UX disciplines, each of us are specialized in, we've seen a plethora of UX job titles appear alongside "UX Designer": UX Architect, UX Consultant, UX Specialist, UX Researcher, UX Developer and so on.
 
@@ -49,7 +47,7 @@ There may certainly be a lot of truth to this criticism. But to me, the rapidly 
 
 Rather than caring too much about roles and titles and responsibilities, UX Designers are beginning to focus on what's important: the users and their experiences. To design great products for our users, we can't just be cogs in a wheel --- we have to care about and involve ourselves in the entire design process, from research to design to development. To me, UX design as a term and field is enabling this development. Being a UX Designer is more about a set of traits than a set of tools. We're breaking out of the silo mentality, and coming together in a shared mindset.
 
-# Bridging the gaps between UX disciplines 
+## Bridging the gaps between UX disciplines 
 
 That the UX mindset is creating a less "silo'ed", more fluid design process seems to shine through in a lot of the discussions and developments that are going on in our community. New approaches and new tools appear almost daily, and some are quickly becoming industry standards. And it seems to me, that all these new toys are contributing to steadily bridging the gaps between the various disciplines under the UX umbrella.
 
@@ -71,7 +69,7 @@ _Example of "Web Drawer" animation from IBM Design Language. _
 
 New tools for designing interactions and transitions are bridging the gap between UI design and interaction design. Tools such as Invision and Marvel allow UX designers to easily prototype and test the flows and interactions of their UI. Linked Sketch or Photoshop files are automatically sync'ed and updated on changes, which allows for a fast and truly iterative workflow. For designing more complex interactions and animations, tools such as Pixate or Form provide the granular control needed.
 
-# Example 3: Designing with code as a bridge between UX and front-end development
+## Example 3: Designing with code as a bridge between UX and front-end development
 
 Digital products are both interactive and dynamic. So in order to create an optimal UX, neither showing nor telling is sufficient; UX designers should be able to feel and test exactly how the user will experience the actual product. At FFW we often use a variety of the tools mentioned above in our UX process to achieve this goal --- but when possible, we prefer to design with code. Designing with code is becoming an increasingly popular practice in the UX community. By skipping static mockups and instead creating designs and prototypes directly in code, designers are able to design and test all the details of the UX, including user flows, transitions, states and interactivity, in all the various mediums and platforms. Coded prototypes allow UX designers to test their every design assumption with actual users. People can see, click, swipe, tap, scroll and experience exactly how the product is supposed to work and behave.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/923fa1c4-505c-41b4-8b8c-b9b05039bf8b.png)
@@ -86,7 +84,7 @@ But what about those UX designers that are not proficient in code?
 
 Luckily, a number of new tools are appearing that enable designers to create semantic, well-coded prototypes --- without necessarily writing any code themselves. These "codesign" (code + design) tools give UX designers a familiar visual interface to work in, manage responsive breakpoints and add animation and interactivity, and then automatically generates the corresponding code. The less code-savvy UX designers at FFW have used Webflow extensively --- and to great success --- , but other options include Macaw and FROONT.
 
-# So then --- what is the state of UX design in 2015?
+## So then --- what is the state of UX design in 2015?
 
 While "UX design" as a field and a term can certainly be accused of blurring boundaries and making it difficult to distinguish between the disciplines, I think that it may just as well be applauded for bringing them together.
 
