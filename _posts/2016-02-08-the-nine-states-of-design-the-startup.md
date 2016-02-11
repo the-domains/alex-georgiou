@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85#.n2ylq56mu'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - ideal
   - design
 description: 'Modern UI teams are designing components first; Interfaces are merely the thoughtful composition of components. This leaves an often glaring hole for users on "the unhappy path" - The places where users may, intentionally or not, stray from your idealized flow.'
-datePublished: '2016-02-11T18:14:53.332Z'
-dateModified: '2016-02-11T18:13:52.656Z'
+datePublished: '2016-02-11T18:35:30.528Z'
+dateModified: '2016-02-11T18:26:45.226Z'
 author:
   - name: Vince Speelman
     url: 'https://medium.com/@vinspee'
@@ -45,6 +44,7 @@ publisher:
   domain: medium.com
   url: 'https://medium.com'
   favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
+url: states/index.html
 _type: Article
 _context: 'http://schema.org'
 
@@ -58,4 +58,3 @@ Modern UI teams are designing components first; Interfaces are merely the though
 ## Nothing
 
 What happens before your component does anything? Maybe it's the first time a user sees it. Maybe it's not activated yet. Essentially, the component exists but hasn't started.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0260c3a-4010-4d65-b6b5-ebcaeec776ca.png)
