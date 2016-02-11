@@ -16,8 +16,8 @@ keywords:
   - ideal
   - design
 description: 'Modern UI teams are designing components first; Interfaces are merely the thoughtful composition of components. This leaves an often glaring hole for users on "the unhappy path" - The places where users may, intentionally or not, stray from your idealized flow.'
-datePublished: '2016-02-11T18:35:30.528Z'
-dateModified: '2016-02-11T18:26:45.226Z'
+datePublished: '2016-02-11T18:43:02.662Z'
+dateModified: '2016-02-11T18:42:57.886Z'
 author:
   - name: Vince Speelman
     url: 'https://medium.com/@vinspee'
@@ -55,6 +55,24 @@ Modern UI teams are designing components first; Interfaces are merely the though
 
 # States
 
-## Nothing
+## 1.Nothing
 
 What happens before your component does anything? Maybe it's the first time a user sees it. Maybe it's not activated yet. Essentially, the component exists but hasn't started.
+
+[Jonas Treub][0] makes sure framer gets you up to speed.
+
+# 2\. Loading
+
+The dreaded state. In a perfect world, no one would ever see this; There are plenty of ways to keep your loading state subtle and unobtrusive. Facebook does a pretty good job of this:
+
+Facebook uses a "dummy post" rather than a traditional loading spinner.
+
+# 3\. None 
+
+Your component has initialized, but it's empty. No data. No Items. Now may be a good time to get the user to act ("Do this thing!"), or to reward them ("Good job, everything is taken care of").
+
+# 4\. One 
+
+You have some data. On an input, this may be after the first keystroke. In a list, it might be when you have one item (or one left)
+
+[0]: https://dribbble.com/jonastreub
