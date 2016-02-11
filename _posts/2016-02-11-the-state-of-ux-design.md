@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Thoughts on designing digital products in the year 2015
-datePublished: '2016-02-11T12:34:58.106Z'
-dateModified: '2016-02-11T12:34:55.274Z'
+datePublished: '2016-02-11T18:06:33.641Z'
+dateModified: '2016-02-11T18:06:02.366Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-11-the-state-of-ux-design.md
@@ -52,7 +52,7 @@ Rather than caring too much about roles and titles and responsibilities, UX Desi
 
 That the UX mindset is creating a less "silo'ed", more fluid design process seems to shine through in a lot of the discussions and developments that are going on in our community. New approaches and new tools appear almost daily, and some are quickly becoming industry standards. And it seems to me, that all these new toys are contributing to steadily bridging the gaps between the various disciplines under the UX umbrella.
 
-_Allow me to give you a few__examples.._.
+_Allow me to give you a few __examples.._.
 
 # Example 1: Sketch.app as a bridge between wireframing and UI design 
 
@@ -67,7 +67,6 @@ User interfaces should be responsive and transitional --- meaning that they 
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06aab1fdca85f6a1345d55ec9184a5bf/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F8f58af285ccde3487314252c4c2f5f1296049b3e.gif)
 
 Uploading Item...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66555647-938b-494b-a1a6-aebd97bf5b60.gif)
 
 New tools for designing interactions and transitions are bridging the gap between UI design and interaction design. Tools such as Invision and Marvel allow UX designers to easily prototype and test the flows and interactions of their UI. Linked Sketch or Photoshop files are automatically sync'ed and updated on changes, which allows for a fast and truly iterative workflow. For designing more complex interactions and animations, tools such as Pixate or Form provide the granular control needed.
 
