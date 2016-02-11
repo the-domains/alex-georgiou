@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Thoughts on designing digital products in the year 2015
-datePublished: '2016-02-11T12:24:02.073Z'
-dateModified: '2016-02-11T12:23:58.743Z'
+datePublished: '2016-02-11T12:34:58.106Z'
+dateModified: '2016-02-11T12:34:55.274Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-11-the-state-of-ux-design.md
@@ -37,9 +37,8 @@ There can hardly be any doubt; UX Design is all the rave in the year 2015\. So w
 In recent years, the UX community has seen many a discussion about the definition and boundaries of UX design. At one end of the spectrum, many seem to focus the term "UX design" around user research and information architecture. This makes a lot of sense --- certainly, these disciplines play an integral role in ensuring a good user experience in a digital product. Additionally, these disciplines are related to a lot of tools and methodologies that have come to be closely associated with the UX Designer: personas, use cases, wireframes, and so on. At the other end of the spectrum, we occasionally find the term UX design used almost interchangeably with User Interface (UI) Design. And while this tendency has been criticized thoroughly --- even lividly --- I can personally just as easily sympathize with this idea: if the actual interface and interactions of a digital product is not pivotal for the user experience, then what is?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e641a3-6f5b-4feb-b866-fd0c752c74ba.png)
 
-But although I can personally relate to both these definitions of UX design, I also think they share the same flaw: they're both reductive in their attempt at restraining the term "UX design" to a certain set of tools or a certain part of the design phase. The fact of the matter is that UX design is not one discipline. UX design is a multidisciplinary approach to designing digital products, and it encompasses a number of disciplines. Information architecture, interaction design, UI design, usability --- really any discipline related to shaping a user's experience of a given digital product falls within the boundaries of UX design. "UX design" is an umbrella term.
-
-# UX design as a mindset
+But although I can personally relate to both these definitions of UX design, I also think they share the same flaw: they're both reductive in their attempt at restraining the term "UX design" to a certain set of tools or a certain part of the design phase. The fact of the matter is that UX design is not one discipline. UX design is a multidisciplinary approach to designing digital products, and it encompasses a number of disciplines. Information architecture, interaction design, UI design, usability --- really any discipline related to shaping a user's experience of a given digital product falls within the boundaries of UX design. "UX design" is an umbrella term.  
+UX design as a mindset
 
 Operating within a field as broad as UX can be scary. The many disciplines involved in UX design can make even the most talented professionals feel inadequate. What kind of unicorn could possibly master all these skills? So in an attempt to communicate more clearly which of the UX disciplines, each of us are specialized in, we've seen a plethora of UX job titles appear alongside "UX Designer": UX Architect, UX Consultant, UX Specialist, UX Researcher, UX Developer and so on.
 
@@ -65,18 +64,20 @@ __
 # Example 2: Prototyping tools as a bridge between UI design and interaction design 
 
 User interfaces should be responsive and transitional --- meaning that they should react to the user's interactions in a clear, understandable and useful way. Designing interactions carefully can be key in enhancing the overall UX. As such, interaction design is a major component of designing digital products, and the importance of designing engaging animations and transitions in interfaces is currently a hot topic in the UX community. This is also evident in the digital landscape. Major companies are building large parts of their design languages and principles around the use of meaningful animations and transitions --- like Google's Material Design or IBM's Design Language.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66555647-938b-494b-a1a6-aebd97bf5b60.gif)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06aab1fdca85f6a1345d55ec9184a5bf/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F8f58af285ccde3487314252c4c2f5f1296049b3e.gif)
 
-_Example of "Web Drawer" animation from IBM Design Language. _
+Uploading Item...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66555647-938b-494b-a1a6-aebd97bf5b60.gif)
 
 New tools for designing interactions and transitions are bridging the gap between UI design and interaction design. Tools such as Invision and Marvel allow UX designers to easily prototype and test the flows and interactions of their UI. Linked Sketch or Photoshop files are automatically sync'ed and updated on changes, which allows for a fast and truly iterative workflow. For designing more complex interactions and animations, tools such as Pixate or Form provide the granular control needed.
 
 # Example 3: Designing with code as a bridge between UX and front-end development
 
 Digital products are both interactive and dynamic. So in order to create an optimal UX, neither showing nor telling is sufficient; UX designers should be able to feel and test exactly how the user will experience the actual product. At FFW we often use a variety of the tools mentioned above in our UX process to achieve this goal --- but when possible, we prefer to design with code. Designing with code is becoming an increasingly popular practice in the UX community. By skipping static mockups and instead creating designs and prototypes directly in code, designers are able to design and test all the details of the UX, including user flows, transitions, states and interactivity, in all the various mediums and platforms. Coded prototypes allow UX designers to test their every design assumption with actual users. People can see, click, swipe, tap, scroll and experience exactly how the product is supposed to work and behave.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/923fa1c4-505c-41b4-8b8c-b9b05039bf8b.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d3b54eb8fc2144bd58fbff1fc21521fc/passthrough.png?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fff31fde41b7c57b889d24388e0ebbb1485a0a931.png)
 
-_Designing with code is becoming an increasingly popular practice among UX designers._
+Uploading Item...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/923fa1c4-505c-41b4-8b8c-b9b05039bf8b.png)
 
 There are plenty of great open source frameworks for designing with code and creating prototypes in-browser, such as Headstart, Roots or Web Starter Kit --- but another option is obviously to "roll your own". (In a future blog post, I'll elaborate more on the setup that we have chosen to go with. However, should you find yourself at DrupalCon 2015 in Barcelona in September, you can drop by and hear me talk about it) .
 
