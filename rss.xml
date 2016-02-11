@@ -4,7 +4,7 @@
         <description><![CDATA[Alex Georgiou. The Book]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 23:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 12:01:05 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sony reports big jump in sales thanks to PlayStation 4]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 01 Feb 2016 00:40:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The State of UX Design]]></title>
+            <description><![CDATA[<article><h1>The State of UX Design</h1><h2>Thoughts on designing digital products in the year 2015</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4b04ead6c02ed977a828c447f80342efc7ba929.jpg"></article>]]></description>
+            <link>http://book.alexgeorgiou.digital/the-state-of-ux-design/index.html</link>
+            <guid isPermaLink="false">6976a864-4c8b-4341-99ec-4b73efdbd027</guid>
+            <pubDate>Thu, 11 Feb 2016 12:00:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How designers worked in 2015?]]></title>
-            <description><![CDATA[<article><h1>How designers worked in 2015?</h1><p>Is Sketch more popular than Photoshop? What fonts were trendy? What colors were used? See it all in the Avocode's 2015 design break down.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3c6121c0167d73672425073e54e4583d83ee2b3.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How designers worked in 2015?</h1><p>Is Sketch more popular than Photoshop? What fonts were trendy? What colors were used? See it all in the Avocode's 2015 design break down.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6efaae416018099ea053bf88c9c62af0cbd625.png"></article>]]></description>
             <link>http://2015.avocode.com/?utm_source=facebook-post&amp;utm_medium=post&amp;utm_content=2015-design-breakdown&amp;utm_campaign=2015-design-breakdown#design-tools</link>
             <guid isPermaLink="false">f041e2c0-7111-4286-9963-3a6d470e1f03</guid>
             <pubDate>Tue, 09 Feb 2016 23:07:29 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://moz.com/blog/how-website-speed-actually-impacts-search-ranking</link>
             <guid isPermaLink="false">1588ced3-84b5-4b8f-8c55-445e92eeb0cc</guid>
             <pubDate>Mon, 01 Feb 2016 14:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's why your ex always shows up in your Facebook feed]]></title>
-            <description><![CDATA[<article><h1>Here's why your ex always shows up in your Facebook feed</h1><p>Why are your past significant others always popping up on your newsfeed? It's because of this guy. He makes Facebook stalking your ex a lot easier. Read more about this odd job: http://on.mash.to/1KF74Hx</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/452afa14d8cf15cb193771dba8bbcf8b87fc9abc.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/01/27/ex-always-on-facebook-feed</link>
-            <guid isPermaLink="false">9eed3ed9-cd73-4e6d-93ce-4d0a14deae61</guid>
-            <pubDate>Sun, 31 Jan 2016 23:57:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
