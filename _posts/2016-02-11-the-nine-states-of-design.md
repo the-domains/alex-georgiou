@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Modern UI teams are designing components first; Interfaces are merely the thoughtful composition of components. This leaves an often glaring hole for users on “the unhappy path” 
-datePublished: '2016-02-11T21:04:23.928Z'
-dateModified: '2016-02-11T21:03:03.142Z'
+datePublished: '2016-02-11T23:01:52.926Z'
+dateModified: '2016-02-11T21:05:53.047Z'
 title: The Nine States of Design
 author: []
 sourcePath: _posts/2016-02-11-the-nine-states-of-design.md
@@ -29,4 +29,3 @@ _type: Article
 ## Modern UI teams are designing components first; Interfaces are merely the thoughtful composition of components. This leaves an often glaring hole for users on "the unhappy path"
 
 The places where users may, intentionally or not, stray from your idealized flow. As we learn to craft systems rather than pages, we must invest effort into shaping these often missed states of design and create with a component lifecycle that can support everyone. Here's the lifecycle as I see it:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98e2e2fa-f6cc-4a81-bb19-944e860d424d.png)
