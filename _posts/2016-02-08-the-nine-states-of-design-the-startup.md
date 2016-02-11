@@ -17,7 +17,7 @@ keywords:
   - ideal
   - design
 description: 'Modern UI teams are designing components first; Interfaces are merely the thoughtful composition of components. This leaves an often glaring hole for users on "the unhappy path" - The places where users may, intentionally or not, stray from your idealized flow.'
-datePublished: '2016-02-11T18:14:52.933Z'
+datePublished: '2016-02-11T18:14:53.332Z'
 dateModified: '2016-02-11T18:13:52.656Z'
 author:
   - name: Vince Speelman
