@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-11T12:00:07.210Z'
-dateModified: '2016-02-11T11:59:50.527Z'
+description: Thoughts on designing digital products in the year 2015
+datePublished: '2016-02-11T12:00:48.263Z'
+dateModified: '2016-02-11T12:00:40.919Z'
 title: The State of UX Design
 author: []
+sourcePath: _posts/2016-02-11-the-state-of-ux-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-the-state-of-ux-design.md
-published: true
 url: the-state-of-ux-design/index.html
 _type: Article
 
@@ -62,8 +62,6 @@ _That's it in a nutshell. One app, one streamlined system to deal with UX, wiref
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3330d9af-1c61-4086-9b68-795c1deafed1.jpg)
 
-## 
-
 ## Example 2: Prototyping tools as a bridge between UI design and interaction design 
 
 User interfaces should be responsive and transitional --- meaning that they should react to the user's interactions in a clear, understandable and useful way. Designing interactions carefully can be key in enhancing the overall UX. As such, interaction design is a major component of designing digital products, and the importance of designing engaging animations and transitions in interfaces is currently a hot topic in the UX community. This is also evident in the digital landscape. Major companies are building large parts of their design languages and principles around the use of meaningful animations and transitions --- like Google's Material Design or IBM's Design Language.
@@ -72,8 +70,6 @@ User interfaces should be responsive and transitional --- meaning that they 
 _Example of "Web Drawer" animation from IBM Design Language. _
 
 New tools for designing interactions and transitions are bridging the gap between UI design and interaction design. Tools such as Invision and Marvel allow UX designers to easily prototype and test the flows and interactions of their UI. Linked Sketch or Photoshop files are automatically sync'ed and updated on changes, which allows for a fast and truly iterative workflow. For designing more complex interactions and animations, tools such as Pixate or Form provide the granular control needed.
-
-# 
 
 # Example 3: Designing with code as a bridge between UX and front-end development
 
