@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Thoughts on designing digital products in the year 2015
-datePublished: '2016-02-11T12:20:21.058Z'
-dateModified: '2016-02-11T12:20:16.819Z'
+datePublished: '2016-02-11T12:24:02.073Z'
+dateModified: '2016-02-11T12:23:58.743Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-11-the-state-of-ux-design.md
@@ -26,7 +26,7 @@ _type: Article
 
 # The State of UX Design
 
-# Thoughts on designing digital products in the year 2015
+## Thoughts on designing digital products in the year 2015
 
 User experience design has come a long way since Don Norman coined the term in the 90's. It has gone from esoteric industry terminology to a being one of the most in-demand disciplines in the technology sector --- in only a matter of years. "UX Designer" is one of the 10 most popular job titles that barely existed 5 years ago with an explosive 22x growth since 2008\. And the demand for UX Designers in the job market seems to just keep on increasing, with thousands of open job positions worldwide. 
 
@@ -61,8 +61,6 @@ _That's it in a nutshell. One app, one streamlined system to deal with UX, wiref
 
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3330d9af-1c61-4086-9b68-795c1deafed1.jpg)
-
-# 
 
 # Example 2: Prototyping tools as a bridge between UI design and interaction design 
 
