@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Thoughts on designing digital products in the year 2015
-datePublished: '2016-02-12T15:11:37.648Z'
-dateModified: '2016-02-12T15:11:34.400Z'
+datePublished: '2016-02-12T20:37:44.595Z'
+dateModified: '2016-02-12T20:37:37.889Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-11-the-state-of-ux-design.md
