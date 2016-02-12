@@ -4,7 +4,7 @@
         <description><![CDATA[Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 15:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 20:36:49 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Thoughts on designing digital products in the year 2015]]></title>
@@ -19,6 +19,13 @@
             <link>http://book.alexgeorgiou.digital/adblock-reveals-how-it-charges-companies-to-let-ads-through/index.html</link>
             <guid isPermaLink="false">c7db3469-1b82-4884-bc3d-3134f1462012</guid>
             <pubDate>Mon, 01 Feb 2016 00:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Futures of text]]></title>
+            <description><![CDATA[<article><h1>Futures of text</h1><p>When the weather is bad I take a bus to work. I'm forever grateful to the person at the bus stop who informed me that you can text New York's MTA service to find out exactly where the bus is and when it's going to arrive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c9577eba0e750f60f2f0dc2ca583d38ebfde016.gif"></article>]]></description>
+            <link>http://whoo.ps/2015/02/23/futures-of-text</link>
+            <guid isPermaLink="false">c8948130-684f-4fba-aca8-1ffdd20fa0e3</guid>
+            <pubDate>Fri, 12 Feb 2016 20:36:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adblocker-blockers get around sites that block adblockers]]></title>
