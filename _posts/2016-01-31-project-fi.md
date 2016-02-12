@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://fi.google.com'
   name: Project Fi
-  favicon: 'https://fi.google.com/about/static/images/fi_favicon_128.png'
   domain: fi.google.com
+  url: 'https://fi.google.com'
+  favicon: 'https://fi.google.com/about/static/images/fi_favicon_128.png'
 keywords:
   - wi-fi
   - wireless
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://fi.google.com/about/'
 title: Project Fi
-datePublished: '2016-01-31T09:37:16.981Z'
-dateModified: '2016-01-31T09:36:53.928Z'
+datePublished: '2016-02-12T20:57:42.684Z'
+dateModified: '2016-02-12T20:57:40.220Z'
 sourcePath: _posts/2016-01-31-project-fi.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
