@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Thoughts on designing digital products in the year 2015
-datePublished: '2016-02-12T15:03:23.249Z'
-dateModified: '2016-02-12T15:03:18.404Z'
+datePublished: '2016-02-12T15:11:37.648Z'
+dateModified: '2016-02-12T15:11:34.400Z'
 title: The State of UX Design
 author: []
 sourcePath: _posts/2016-02-11-the-state-of-ux-design.md
@@ -66,15 +66,11 @@ __
 User interfaces should be responsive and transitional --- meaning that they should react to the user's interactions in a clear, understandable and useful way. Designing interactions carefully can be key in enhancing the overall UX. As such, interaction design is a major component of designing digital products, and the importance of designing engaging animations and transitions in interfaces is currently a hot topic in the UX community. This is also evident in the digital landscape. Major companies are building large parts of their design languages and principles around the use of meaningful animations and transitions --- like Google's Material Design or IBM's Design Language.
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06aab1fdca85f6a1345d55ec9184a5bf/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F8f58af285ccde3487314252c4c2f5f1296049b3e.gif)
 
-Uploading Item...
-
 New tools for designing interactions and transitions are bridging the gap between UI design and interaction design. Tools such as Invision and Marvel allow UX designers to easily prototype and test the flows and interactions of their UI. Linked Sketch or Photoshop files are automatically sync'ed and updated on changes, which allows for a fast and truly iterative workflow. For designing more complex interactions and animations, tools such as Pixate or Form provide the granular control needed.
 
 # Example 3: Designing with code as a bridge between UX and front-end development
 
 Digital products are both interactive and dynamic. So in order to create an optimal UX, neither showing nor telling is sufficient; UX designers should be able to feel and test exactly how the user will experience the actual product. At FFW we often use a variety of the tools mentioned above in our UX process to achieve this goal --- but when possible, we prefer to design with code. Designing with code is becoming an increasingly popular practice in the UX community. By skipping static mockups and instead creating designs and prototypes directly in code, designers are able to design and test all the details of the UX, including user flows, transitions, states and interactivity, in all the various mediums and platforms. Coded prototypes allow UX designers to test their every design assumption with actual users. People can see, click, swipe, tap, scroll and experience exactly how the product is supposed to work and behave.
-
-Uploading Item...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/923fa1c4-505c-41b4-8b8c-b9b05039bf8b.png)
 
 There are plenty of great open source frameworks for designing with code and creating prototypes in-browser, such as Headstart, Roots or Web Starter Kit --- but another option is obviously to "roll your own". (In a future blog post, I'll elaborate more on the setup that we have chosen to go with. However, should you find yourself at DrupalCon 2015 in Barcelona in September, you can drop by and hear me talk about it) .
