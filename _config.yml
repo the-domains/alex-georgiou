@@ -1,4 +1,19 @@
-analytics: {}
+name: Alex Georgiou
+favicon: null
+layout_spectrum: 0.2468
+typography_spectrum: 0.65613
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -8,11 +23,6 @@ color:
     - '#004E98'
   brandStrength: 0
   lightness: 0.625
-  rhythmicContrast: 0.75
   saturation: 0.75
-cta: {}
-layout_spectrum: 0.844594
-name: Alex Georgiou
-opengraph: {}
+  rhythmicContrast: 0.75
 purpose: []
-typography_spectrum: 0.65613
