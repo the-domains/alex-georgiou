@@ -1,6 +1,6 @@
 name: Alex Georgiou
 favicon: null
-layout_spectrum: 0.89202
+layout_spectrum: 0.49981
 typography_spectrum: 0.67528
 title: The Book - Alex Georgiou
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fdf8f1'
     - '#b9b9ba'
     - '#3a3c3b'
-  brandStrength: 0.875
-  lightness: 0.8125
-  saturation: 0.75
-  rhythmicContrast: 1
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
