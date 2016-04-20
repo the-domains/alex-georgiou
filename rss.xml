@@ -4,7 +4,7 @@
         <description><![CDATA[The Book - Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 20:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 20:18:18 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sorry Albert!]]></title>
@@ -21,8 +21,22 @@
             <pubDate>Fri, 12 Feb 2016 20:57:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Adblock reveals how it charges companies to let ads through]]></title>
+            <description><![CDATA[<article><h1>Adblock reveals how it charges companies to let ads through</h1><p>Adblock Plus, one of the world's most popular ad blockers, is pushing to separate its acceptable ads program from its core business and make it appear more independent. Acceptable advertising is a controversial program in which sites can pay the company to allow their advertising through the filter, where it would usually be automatically blocked.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee56e0122a249025a1353580f266ad7716754c2a.jpg"></article>]]></description>
+            <link>http://thenextweb.com/insider/2015/12/16/adblock-plus-reveals-how-its-charging-companies-to-let-ads-through-your-ad-blocker/#gref</link>
+            <guid isPermaLink="false">4d49d974-c20d-4f3b-83b3-77949c4891bb</guid>
+            <pubDate>Wed, 20 Apr 2016 20:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How designers worked in 2015?]]></title>
+            <description><![CDATA[<article><h1>How designers worked in 2015?</h1><p>Is Sketch more popular than Photoshop? What fonts were trendy? What colors were used? See it all in the Avocode's 2015 design break down.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6efaae416018099ea053bf88c9c62af0cbd625.png"></article>]]></description>
+            <link>http://2015.avocode.com/?utm_source=facebook-post&amp;utm_medium=post&amp;utm_content=2015-design-breakdown&amp;utm_campaign=2015-design-breakdown#design-tools</link>
+            <guid isPermaLink="false">f3e6c2e4-cde7-4318-9867-ab80414f5ac8</guid>
+            <pubDate>Wed, 20 Apr 2016 20:17:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A deep dive into the business of virtual reality porn]]></title>
-            <description><![CDATA[<article><h1>A deep dive into the business of virtual reality porn</h1><p>I walk up to a large, white mansion. I knock on the door and a woman in a white shirt and black skirt opens the door. She greets me by saying "hello handsome" as if we've met before. She grabs the vacuum cleaner I'm holding in my hand and smiles before saying, "I've been meaning to replace my sucker for some time."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9967b82a79269cdc96c7e479edfd386d03e91bf.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A deep dive into the business of virtual reality porn</h1><p>I walk up to a large, white mansion. I knock on the door and a woman in a white shirt and black skirt opens the door. She greets me by saying "hello handsome" as if we've met before. She grabs the vacuum cleaner I'm holding in my hand and smiles before saying, "I've been meaning to replace my sucker for some time."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82fe45f3516f417548c8e2f7629d683e6a98bd5a.jpg"></article>]]></description>
             <link>http://thenextweb.com/insider/2016/02/05/a-deep-dive-into-the-business-of-virtual-reality-porn/</link>
             <guid isPermaLink="false">10cd85e9-b4d9-4289-8d72-aedb8fcfb394</guid>
             <pubDate>Wed, 20 Apr 2016 20:17:40 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://www.linkedin.com/pulse/happening-now-social-media-crisis-melina-politi</link>
             <guid isPermaLink="false">8e0df874-ff5a-4f87-8111-2b1981789797</guid>
             <pubDate>Wed, 20 Apr 2016 20:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Futures of text]]></title>
-            <description><![CDATA[<article><h1>Futures of text</h1><p>When the weather is bad I take a bus to work. I'm forever grateful to the person at the bus stop who informed me that you can text New York's MTA service to find out exactly where the bus is and when it's going to arrive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f0a02f14b1e348cff9b506f8f3b332ac04749be.gif"></article>]]></description>
-            <link>http://whoo.ps/2015/02/23/futures-of-text</link>
-            <guid isPermaLink="false">40f91a0f-9811-4d5c-a8d8-c0e9eeb074a4</guid>
-            <pubDate>Wed, 20 Apr 2016 16:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adblocker-blockers get around sites that block adblockers]]></title>
-            <description><![CDATA[<article><h1>Adblocker-blockers get around sites that block adblockers</h1><p>Blocking the adblockers is becoming more common, but now there's a way to fight back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f30b58a96126cb4e25412f14fddefa816f42b696.png"></article>]]></description>
-            <link>http://thenextweb.com/apps/2016/02/11/around-and-around-we-go/#gref</link>
-            <guid isPermaLink="false">cd9c3d6b-15f2-437b-9683-fd0cd9d32a03</guid>
-            <pubDate>Fri, 12 Feb 2016 00:10:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
