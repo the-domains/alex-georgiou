@@ -4,7 +4,7 @@
         <description><![CDATA[The Book - Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 20:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 20:32:13 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sorry Albert!]]></title>
@@ -19,6 +19,13 @@
             <link>https://fi.google.com/about/</link>
             <guid isPermaLink="false">bb9ff2b4-c347-4701-ac7b-6a47d4184eb7</guid>
             <pubDate>Fri, 12 Feb 2016 20:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NewsWhip Spike - Signaling What Matters, Right Now]]></title>
+            <description><![CDATA[<article><h1>NewsWhip Spike - Signaling What Matters, Right Now</h1><p>See how radio station, SPIN 1038, uses Spike to find viral story ideas for talking points on radio and content ideas online. Watch how broadcasters and marketers use Spike in different ways, to power their discovery, broadcasting and content marketing. > Read more case studies</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57b7446972656cae210293033f7176a82bbd4d2f.jpg"></article>]]></description>
+            <link>https://www.newswhip.com/spike/?_ga=1.186827816.1845530812.1461184169</link>
+            <guid isPermaLink="false">5604d600-52ad-4d5b-b198-cb7718fff7d8</guid>
+            <pubDate>Wed, 20 Apr 2016 20:32:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Readymag - Design anything on the web]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How To Lead A Creative Life [Infographic] | Fast Company</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a64c6e6393f9de5a3fc983767e9f78a692df343.jpg"></article>]]></description>
             <link>http://infographics.fastcompany.com/magazine/161/creative-life.html</link>
             <guid isPermaLink="false">18340bbd-e531-4335-934f-b1a78c59c7cc</guid>
-            <pubDate>Wed, 20 Apr 2016 20:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Website Speed Actually Impacts Search Ranking]]></title>
-            <description><![CDATA[<article><h1>How Website Speed Actually Impacts Search Ranking</h1><p>Google uses a multitude of factors to determine how to rank search engine results. Typically, these factors are either related to the content of a webpage itself (the text, its URL, the titles and headers, etc.) or were measurements of the authenticity of the website itself (age of the domain name, number and quality of inbound links, etc.).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/995d9d367f08ea3b525898aff5620055cc0d0c3d.png"></article>]]></description>
-            <link>https://moz.com/blog/how-website-speed-actually-impacts-search-ranking</link>
-            <guid isPermaLink="false">57329b3c-3bc9-4817-866e-cc9145b899ca</guid>
             <pubDate>Wed, 20 Apr 2016 20:17:40 GMT</pubDate>
         </item>
     </channel>
