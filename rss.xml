@@ -4,7 +4,7 @@
         <description><![CDATA[The Book - Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 20:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 20:38:13 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sorry Albert!]]></title>
@@ -21,10 +21,24 @@
             <pubDate>Fri, 12 Feb 2016 20:57:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Landing Pages: Build Publish & Test Without I.T. | Unbounce]]></title>
+            <description><![CDATA[<article><h1>Landing Pages: Build Publish & Test Without I.T. | Unbounce</h1><p>SOME OF THE WORLD'S MOST RESPECTED BRANDS AND AGENCIES TRUST UNBOUNCE "We were able to test our way from a 5% conversion rate, all the way up to 20%. Without driving any more traffic, our client is getting four times the leads that he was getting before."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a754e1b9afaa89eadd8a71e8999b571c94595af.jpg"></article>]]></description>
+            <link>http://unbounce.com/</link>
+            <guid isPermaLink="false">8d32ab79-57c2-49c3-8eb0-e66738a845a0</guid>
+            <pubDate>Wed, 20 Apr 2016 20:38:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[QuirkTools / Online Tools for Creative People]]></title>
             <description><![CDATA[<article><h1>QuirkTools / Online Tools for Creative People</h1><p>Online tools for creative people. We build simple apps to help you build yours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe33e375e98f6f4dc89c1cd05326bc5ad706478f.png"></article>]]></description>
             <link>http://quirktools.com/</link>
             <guid isPermaLink="false">c5260225-24c2-4074-93e2-0f6f01211d87</guid>
+            <pubDate>Wed, 20 Apr 2016 20:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leader In Customer Identity Management * Gigya]]></title>
+            <description><![CDATA[<article><h1>Leader In Customer Identity Management * Gigya</h1><p>Using Social Login, RaaS and other features, we help companies build better customer relationships with Customer Identity Management. Learn more here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afc408f35877b13762f979ca95bb31380272e2a5.png"></article>]]></description>
+            <link>http://www.gigya.com/</link>
+            <guid isPermaLink="false">e9ac5f45-9d2d-4522-800a-79f579b098a7</guid>
             <pubDate>Wed, 20 Apr 2016 20:32:11 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>http://thenextweb.com/insider/2015/12/16/adblock-plus-reveals-how-its-charging-companies-to-let-ads-through-your-ad-blocker/#gref</link>
             <guid isPermaLink="false">4d49d974-c20d-4f3b-83b3-77949c4891bb</guid>
             <pubDate>Wed, 20 Apr 2016 20:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How designers worked in 2015?]]></title>
-            <description><![CDATA[<article><h1>How designers worked in 2015?</h1><p>Is Sketch more popular than Photoshop? What fonts were trendy? What colors were used? See it all in the Avocode's 2015 design break down.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6efaae416018099ea053bf88c9c62af0cbd625.png"></article>]]></description>
-            <link>http://2015.avocode.com/?utm_source=facebook-post&amp;utm_medium=post&amp;utm_content=2015-design-breakdown&amp;utm_campaign=2015-design-breakdown#design-tools</link>
-            <guid isPermaLink="false">f3e6c2e4-cde7-4318-9867-ab80414f5ac8</guid>
-            <pubDate>Wed, 20 Apr 2016 20:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A deep dive into the business of virtual reality porn]]></title>
-            <description><![CDATA[<article><h1>A deep dive into the business of virtual reality porn</h1><p>I walk up to a large, white mansion. I knock on the door and a woman in a white shirt and black skirt opens the door. She greets me by saying "hello handsome" as if we've met before. She grabs the vacuum cleaner I'm holding in my hand and smiles before saying, "I've been meaning to replace my sucker for some time."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82fe45f3516f417548c8e2f7629d683e6a98bd5a.jpg"></article>]]></description>
-            <link>http://thenextweb.com/insider/2016/02/05/a-deep-dive-into-the-business-of-virtual-reality-porn/</link>
-            <guid isPermaLink="false">10cd85e9-b4d9-4289-8d72-aedb8fcfb394</guid>
-            <pubDate>Wed, 20 Apr 2016 20:17:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
