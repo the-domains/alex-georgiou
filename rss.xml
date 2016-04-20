@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Alex Georgiou]]></title>
-        <description><![CDATA[Alex Georgiou]]></description>
+        <title><![CDATA[The Book]]></title>
+        <description><![CDATA[The Book]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 14:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 14:49:54 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sorry Albert!]]></title>
-            <description><![CDATA[<article><h1>Sorry Albert!</h1><p>I think that you might be wrong on this one...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32bb011f-0522-4256-a900-e96b31ef71d1.jpg"></article>]]></description>
-            <link>http://book.alexgeorgiou.digital/adf0a616-61cc-4f16-aa5f-5d83fbcc867d/index.html</link>
+            <description><![CDATA[<article><h1>Sorry Albert!</h1><p>Creativity is hiding your resources...I think that you might be wrong on this one. I am not a perfect team player, and there are times that I feel more comfortable when I work on my own. I know that I am not alone feeling this way. When I type keywords “Why teams” in Google I am auto suggested by the sentences “Why teams don’t work?” “Why teams fail?” Knowing that the web is there to back you up with tons of resources is relieving, yet I believe that we can and should drive all this information inside the team that we function every day because it is inevitable in today’s businesses. No one can deny the importance of discussing and building on each other’s ideas when you’re sailing towards the same goal. Outcomes of a productive and efficient team is very likely to be highly rewarding for all team members especially if out of this procedure comes knowledge, new information and better skills. To make it clear, I believe that sharing resources leads to a more effective teamwork. Outcomes of a good teamwork is very much related with understanding what team members think, feel and need in their context. So Albert, im’ sorry -i think that creativity is all about sharing your resources Enjoy mine!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32bb011f-0522-4256-a900-e96b31ef71d1.jpg"></article>]]></description>
+            <link>thebook.alexgeorgiou.digital</link>
             <guid isPermaLink="false">adf0a616-61cc-4f16-aa5f-5d83fbcc867d</guid>
-            <pubDate>Wed, 20 Apr 2016 14:38:19 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 14:49:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Project Fi]]></title>
