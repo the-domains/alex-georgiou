@@ -4,7 +4,7 @@
         <description><![CDATA[The Book - Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 16:10:14 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sorry Albert!]]></title>
@@ -19,6 +19,20 @@
             <link>https://fi.google.com/about/</link>
             <guid isPermaLink="false">bb9ff2b4-c347-4701-ac7b-6a47d4184eb7</guid>
             <pubDate>Fri, 12 Feb 2016 20:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Futures of text]]></title>
+            <description><![CDATA[<article><h1>Futures of text</h1><p>When the weather is bad I take a bus to work. I'm forever grateful to the person at the bus stop who informed me that you can text New York's MTA service to find out exactly where the bus is and when it's going to arrive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c9577eba0e750f60f2f0dc2ca583d38ebfde016.gif"></article>]]></description>
+            <link>http://whoo.ps/2015/02/23/futures-of-text</link>
+            <guid isPermaLink="false">40f91a0f-9811-4d5c-a8d8-c0e9eeb074a4</guid>
+            <pubDate>Wed, 20 Apr 2016 16:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adblock reveals how it charges companies to let ads through]]></title>
+            <description><![CDATA[<article><h1>Adblock reveals how it charges companies to let ads through</h1><p>Adblock Plus, one of the world's most popular ad blockers, is pushing to separate its acceptable ads program from its core business and make it appear more independent. Acceptable advertising is a controversial program in which sites can pay the company to allow their advertising through the filter, where it would usually be automatically blocked.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c7e1357968ff12fba52a0e4280fee93d382fc1.jpg"></article>]]></description>
+            <link>http://thenextweb.com/insider/2015/12/16/adblock-plus-reveals-how-its-charging-companies-to-let-ads-through-your-ad-blocker/#gref</link>
+            <guid isPermaLink="false">afa2f18a-b9b3-4a8e-b440-01f1dc88af60</guid>
+            <pubDate>Wed, 20 Apr 2016 16:10:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adblocker-blockers get around sites that block adblockers]]></title>
