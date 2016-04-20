@@ -4,8 +4,15 @@
         <description><![CDATA[The Book - Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 16:32:08 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sorry Albert!]]></title>
+            <description><![CDATA[<article><h1>Sorry Albert!</h1><h2>Creativity is hiding your resources...I think that you might be wrong on this one. </h2><p>I am not a perfect team player, and there are times that I feel more comfortable when I work on my own. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68941b58-c047-41c9-b4f1-9d49cd0e22e9.jpg"></article>]]></description>
+            <link>http://book.alexgeorgiou.digital/sorry-albert/index.html</link>
+            <guid isPermaLink="false">73439b51-3bcb-4364-b8df-ac06b1f1fc90</guid>
+            <pubDate>Wed, 20 Apr 2016 16:31:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Project Fi]]></title>
             <description><![CDATA[<article><h1>Project Fi</h1><p>Project Fi is a program to deliver a fast, easy wireless experience in close partnership with leading carriers, hardware makers, and our users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcd8d1fb80d53a390d5c87b505e7a977126a14f2.png"></article>]]></description>
