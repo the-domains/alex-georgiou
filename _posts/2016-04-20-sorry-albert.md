@@ -3,21 +3,23 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ' I am not a perfect team player, and there are times that I feel more comfortable when I work on my own. '
-datePublished: '2016-04-20T15:57:41.682Z'
-dateModified: '2016-04-20T15:55:53.777Z'
+datePublished: '2016-04-20T15:59:19.871Z'
+dateModified: '2016-04-20T15:58:11.142Z'
+title: 'Sorry Albert!'
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-20-sorry-albert.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: 'Sorry Albert!'
-author: []
-sourcePath: _posts/2016-04-20-sorry-albert.md
-published: true
 url: sorry-albert/index.html
 _type: Article
 
