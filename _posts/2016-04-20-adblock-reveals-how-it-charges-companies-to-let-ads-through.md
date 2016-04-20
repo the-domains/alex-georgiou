@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://thenextweb.com/insider/2015/12/16/adblock-plus-reveals-how-its-charging-companies-to-let-ads-through-your-ad-blocker/#gref'
 title: Adblock reveals how it charges companies to let ads through
-datePublished: '2016-04-20T16:10:06.200Z'
-dateModified: '2016-04-20T15:51:32.508Z'
+datePublished: '2016-04-20T20:17:41.143Z'
+dateModified: '2016-04-20T20:15:20.853Z'
 sourcePath: _posts/2016-04-20-adblock-reveals-how-it-charges-companies-to-let-ads-through.md
 published: true
 inFeed: true
