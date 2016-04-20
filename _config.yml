@@ -1,6 +1,6 @@
 name: Alex Georgiou
 favicon: null
-layout_spectrum: 0.86355
+layout_spectrum: 0.81807
 typography_spectrum: 0.65613
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#fdf8f1'
     - '#b9b9ba'
     - '#3a3c3b'
-  brandStrength: 0.6875
-  lightness: 0.4375
-  saturation: 0.25
-  rhythmicContrast: 0.25
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
