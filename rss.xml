@@ -4,7 +4,7 @@
         <description><![CDATA[The Book - Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 20:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 20:18:17 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sorry Albert!]]></title>
@@ -21,6 +21,20 @@
             <pubDate>Fri, 12 Feb 2016 20:57:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How designers worked in 2015?]]></title>
+            <description><![CDATA[<article><h1>How designers worked in 2015?</h1><p>Is Sketch more popular than Photoshop? What fonts were trendy? What colors were used? See it all in the Avocode's 2015 design break down.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3c6121c0167d73672425073e54e4583d83ee2b3.png"></article>]]></description>
+            <link>http://2015.avocode.com/?utm_source=facebook-post&amp;utm_medium=post&amp;utm_content=2015-design-breakdown&amp;utm_campaign=2015-design-breakdown#design-tools</link>
+            <guid isPermaLink="false">f3e6c2e4-cde7-4318-9867-ab80414f5ac8</guid>
+            <pubDate>Wed, 20 Apr 2016 20:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A deep dive into the business of virtual reality porn]]></title>
+            <description><![CDATA[<article><h1>A deep dive into the business of virtual reality porn</h1><p>I walk up to a large, white mansion. I knock on the door and a woman in a white shirt and black skirt opens the door. She greets me by saying "hello handsome" as if we've met before. She grabs the vacuum cleaner I'm holding in my hand and smiles before saying, "I've been meaning to replace my sucker for some time."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82fe45f3516f417548c8e2f7629d683e6a98bd5a.jpg"></article>]]></description>
+            <link>http://thenextweb.com/insider/2016/02/05/a-deep-dive-into-the-business-of-virtual-reality-porn/</link>
+            <guid isPermaLink="false">10cd85e9-b4d9-4289-8d72-aedb8fcfb394</guid>
+            <pubDate>Wed, 20 Apr 2016 20:17:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How To Lead A Creative Life [Infographic] | Fast Company]]></title>
             <description><![CDATA[<article><h1>How To Lead A Creative Life [Infographic] | Fast Company</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a64c6e6393f9de5a3fc983767e9f78a692df343.jpg"></article>]]></description>
             <link>http://infographics.fastcompany.com/magazine/161/creative-life.html</link>
@@ -29,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[How Website Speed Actually Impacts Search Ranking]]></title>
-            <description><![CDATA[<article><h1>How Website Speed Actually Impacts Search Ranking</h1><p>Google uses a multitude of factors to determine how to rank search engine results. Typically, these factors are either related to the content of a webpage itself (the text, its URL, the titles and headers, etc.) or were measurements of the authenticity of the website itself (age of the domain name, number and quality of inbound links, etc.).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75d20106c6654e99e8fe1370f55f59a10c4741c8.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How Website Speed Actually Impacts Search Ranking</h1><p>Google uses a multitude of factors to determine how to rank search engine results. Typically, these factors are either related to the content of a webpage itself (the text, its URL, the titles and headers, etc.) or were measurements of the authenticity of the website itself (age of the domain name, number and quality of inbound links, etc.).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/995d9d367f08ea3b525898aff5620055cc0d0c3d.png"></article>]]></description>
             <link>https://moz.com/blog/how-website-speed-actually-impacts-search-ranking</link>
             <guid isPermaLink="false">57329b3c-3bc9-4817-866e-cc9145b899ca</guid>
             <pubDate>Wed, 20 Apr 2016 20:17:40 GMT</pubDate>
@@ -61,13 +75,6 @@
             <link>http://whoo.ps/2015/02/23/futures-of-text</link>
             <guid isPermaLink="false">40f91a0f-9811-4d5c-a8d8-c0e9eeb074a4</guid>
             <pubDate>Wed, 20 Apr 2016 16:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adblocker-blockers get around sites that block adblockers]]></title>
-            <description><![CDATA[<article><h1>Adblocker-blockers get around sites that block adblockers</h1><p>Blocking the adblockers is becoming more common, but now there's a way to fight back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f30b58a96126cb4e25412f14fddefa816f42b696.png"></article>]]></description>
-            <link>http://thenextweb.com/apps/2016/02/11/around-and-around-we-go/#gref</link>
-            <guid isPermaLink="false">cd9c3d6b-15f2-437b-9683-fd0cd9d32a03</guid>
-            <pubDate>Fri, 12 Feb 2016 00:10:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
