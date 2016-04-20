@@ -4,7 +4,7 @@
         <description><![CDATA[The Book - Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 15:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 15:57:42 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Project Fi]]></title>
@@ -12,6 +12,13 @@
             <link>https://fi.google.com/about/</link>
             <guid isPermaLink="false">bb9ff2b4-c347-4701-ac7b-6a47d4184eb7</guid>
             <pubDate>Fri, 12 Feb 2016 20:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sorry Albert!]]></title>
+            <description><![CDATA[<article><h1>Sorry Albert!</h1><h2>Creativity is hiding your resources...I think that you might be wrong on this one.</h2><p> I am not a perfect team player, and there are times that I feel more comfortable when I work on my own. </p></article>]]></description>
+            <link>http://book.alexgeorgiou.digital/sorry-albert/index.html</link>
+            <guid isPermaLink="false">984b4351-4266-4a14-b9e0-5e0504d883b6</guid>
+            <pubDate>Wed, 20 Apr 2016 15:57:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adblocker-blockers get around sites that block adblockers]]></title>
