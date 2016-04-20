@@ -4,7 +4,7 @@
         <description><![CDATA[The Book - Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 20:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 20:18:15 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sorry Albert!]]></title>
@@ -19,6 +19,13 @@
             <link>https://fi.google.com/about/</link>
             <guid isPermaLink="false">bb9ff2b4-c347-4701-ac7b-6a47d4184eb7</guid>
             <pubDate>Fri, 12 Feb 2016 20:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The first 5 online resources to use when learning to code]]></title>
+            <description><![CDATA[<article><h1>The first 5 online resources to use when learning to code</h1><p>Even if you think the buzz around "learning how to code" is overkill, you have to admit it's here to stay. Just like it's easier to learn a foreign language if you start in grade school, getting an early grasp on mark-up and programming languages such as HTML, CSS and Java ensures you'll have an idea of what makes our digital lives and devices tick, even if you don't plan on becoming a software developer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fed459f398ec8464b4378120e9c44df6e6e6c1d.jpg"></article>]]></description>
+            <link>http://mashable.com/2014/12/08/learn-code-resources/?utm_cid=mash-com-fb-main-link#0mhmTRbYgPqh</link>
+            <guid isPermaLink="false">cb51be69-00fd-4b2b-9897-68727cb3686e</guid>
+            <pubDate>Wed, 20 Apr 2016 20:17:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Happening now: Social Media Crisis]]></title>
