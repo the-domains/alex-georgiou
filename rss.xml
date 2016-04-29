@@ -4,7 +4,7 @@
         <description><![CDATA[The Book - Alex Georgiou]]></description>
         <link>http://book.alexgeorgiou.digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 20:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 23:33:06 GMT</lastBuildDate>
         <atom:link href="http://book.alexgeorgiou.digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sorry Albert!]]></title>
@@ -19,6 +19,13 @@
             <link>https://fi.google.com/about/</link>
             <guid isPermaLink="false">bb9ff2b4-c347-4701-ac7b-6a47d4184eb7</guid>
             <pubDate>Fri, 12 Feb 2016 20:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CodyHouse - Free HTML, CSS, JS nuggets]]></title>
+            <description><![CDATA[<article><h1>CodyHouse - Free HTML, CSS, JS nuggets</h1><p>A free library of HTML/CSS/Javascript resources to boost your web projects and learn new tricks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a24ea78c100143a18d763f7d681761b4fe1582bf.jpg"></article>]]></description>
+            <link>https://codyhouse.co/</link>
+            <guid isPermaLink="false">0efc7367-9ed8-492a-8e50-b0a12818398c</guid>
+            <pubDate>Fri, 29 Apr 2016 23:32:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Landing Pages: Build Publish & Test Without I.T. | Unbounce]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.swiftbranding.com/the-definite-guide-to-personal-branding/?utm_content=buffer63d29&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">83c6ee78-124a-406e-93cb-e9148d93f223</guid>
             <pubDate>Wed, 20 Apr 2016 20:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adblock reveals how it charges companies to let ads through]]></title>
-            <description><![CDATA[<article><h1>Adblock reveals how it charges companies to let ads through</h1><p>Adblock Plus, one of the world's most popular ad blockers, is pushing to separate its acceptable ads program from its core business and make it appear more independent. Acceptable advertising is a controversial program in which sites can pay the company to allow their advertising through the filter, where it would usually be automatically blocked.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5bbf7617b4d9099befbcb0c07d156f530ead361.jpg"></article>]]></description>
-            <link>http://thenextweb.com/insider/2015/12/16/adblock-plus-reveals-how-its-charging-companies-to-let-ads-through-your-ad-blocker/#gref</link>
-            <guid isPermaLink="false">4d49d974-c20d-4f3b-83b3-77949c4891bb</guid>
-            <pubDate>Wed, 20 Apr 2016 20:17:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
